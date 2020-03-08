@@ -10,9 +10,9 @@ public class Solution {
         if (head == null || head.next == null) {
             return head;
         }
-        ListNode newHead = reverseList(head.next);
-        head.next.next = head;
-        head.next = null;
+        ListNode newHead = reverseList(head.next);//head.next为首的链表已经翻转完毕，现在head.next是链表的最后一个元素。
+        head.next.next = head;//head.next下一个元素指向head
+        head.next = null;//head.next设为空，head是链表的最后一个结点。
         return newHead;
     }
 }
