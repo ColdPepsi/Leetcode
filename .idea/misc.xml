@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA">
+    <option name="configuration">
+      <map>
+        <entry key="checkstyle-version" value="8.26" />
+        <entry key="copy-libs" value="true" />
+        <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+        <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+        <entry key="scan-before-checkin" value="false" />
+        <entry key="scanscope" value="JavaOnly" />
+        <entry key="suppress-errors" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/160-相交链表/pom.xml" />
+        <option value="$PROJECT_DIR$/206-反转链表/pom.xml" />
+        <option value="$PROJECT_DIR$/21-合并有序链表/pom.xml" />
+        <option value="$PROJECT_DIR$/83-删除排序链表中的重复元素/pom.xml" />
+        <option value="$PROJECT_DIR$/19-删除链表倒数第N个结点/pom.xml" />
+        <option value="$PROJECT_DIR$/24-两两交换链表中的结点/pom.xml" />
+        <option value="$PROJECT_DIR$/445-两数相加/pom.xml" />
+        <option value="$PROJECT_DIR$/234-回文链表/pom.xml" />
+        <option value="$PROJECT_DIR$/725-分隔链表/pom.xml" />
+        <option value="$PROJECT_DIR$/328-奇偶链表/pom.xml" />
+        <option value="$PROJECT_DIR$/104-二叉树最大深度/pom.xml" />
+        <option value="$PROJECT_DIR$/110-平衡二叉树/pom.xml" />
+        <option value="$PROJECT_DIR$/543-二叉树的直径/pom.xml" />
+        <option value="$PROJECT_DIR$/226-翻转二叉树/pom.xml" />
+        <option value="$PROJECT_DIR$/617-合并二叉树/pom.xml" />
+        <option value="$PROJECT_DIR$/112-路径总和/pom.xml" />
+        <option value="$PROJECT_DIR$/437-路径总和3/pom.xml" />
+        <option value="$PROJECT_DIR$/572-另一棵树的子树/pom.xml" />
+        <option value="$PROJECT_DIR$/101-对称二叉树/pom.xml" />
+        <option value="$PROJECT_DIR$/111-二叉树最小深度/pom.xml" />
+        <option value="$PROJECT_DIR$/404-左叶子之和/pom.xml" />
+        <option value="$PROJECT_DIR$/687-最长同值路径/pom.xml" />
+        <option value="$PROJECT_DIR$/337-打家劫舍3间隔遍历/pom.xml" />
+        <option value="$PROJECT_DIR$/671-二叉树中第二小的结点/pom.xml" />
+        <option value="$PROJECT_DIR$/637-二叉树的层平均值/pom.xml" />
+        <option value="$PROJECT_DIR$/513-找树左下角的值/pom.xml" />
+        <option value="$PROJECT_DIR$/144-二叉树的先序非递归遍历/pom.xml" />
+        <option value="$PROJECT_DIR$/145-二叉树后序非递归遍历/pom.xml" />
+        <option value="$PROJECT_DIR$/94-二叉树中序非递归遍历/pom.xml" />
+        <option value="$PROJECT_DIR$/669-修剪二叉搜索树/pom.xml" />
+        <option value="$PROJECT_DIR$/230-二叉搜索树中第K小元素/pom.xml" />
+        <option value="$PROJECT_DIR$/538-把二叉搜索树编程累加树/pom.xml" />
+        <option value="$PROJECT_DIR$/235-二叉搜索树的最近公共祖先/pom.xml" />
+        <option value="$PROJECT_DIR$/236-二叉树的最近公共祖先/pom.xml" />
+        <option value="$PROJECT_DIR$/108-将有序数组转化为平衡二叉树/pom.xml" />
+        <option value="$PROJECT_DIR$/109-将有序的链表转换为平衡的二叉搜索树/pom.xml" />
+        <option value="$PROJECT_DIR$/653-两数之和4-输入BST/pom.xml" />
+        <option value="$PROJECT_DIR$/530-二叉搜索树的最小绝对差/pom.xml" />
+        <option value="$PROJECT_DIR$/501-二叉搜索树中的众数/pom.xml" />
+        <option value="$PROJECT_DIR$/232-用栈实现队列/pom.xml" />
+        <option value="$PROJECT_DIR$/225-用队列模拟栈/pom.xml" />
+        <option value="$PROJECT_DIR$/155-最小栈/pom.xml" />
+        <option value="$PROJECT_DIR$/20-有效的括号/pom.xml" />
+        <option value="$PROJECT_DIR$/739-每日温度/pom.xml" />
+        <option value="$PROJECT_DIR$/503-下一个更大的元素2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
