@@ -15,6 +15,7 @@ public class SingleLinkedList {
     public static void traversal(ListNode head) {
         if (head == null) {
             System.out.println("单链表为空");
+            return;
         }
         StringBuilder res = new StringBuilder("[");
         for (ListNode p = head; p != null; p = p.next) {
