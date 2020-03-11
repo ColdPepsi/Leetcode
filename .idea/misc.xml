@@ -68,8 +68,17 @@
         <option value="$PROJECT_DIR$/283-移动零/pom.xml" />
         <option value="$PROJECT_DIR$/566-重塑矩阵/pom.xml" />
         <option value="$PROJECT_DIR$/485-最大连续1的个数/pom.xml" />
+        <option value="$PROJECT_DIR$/240-搜索二维矩阵/pom.xml" />
+        <option value="$PROJECT_DIR$/378-有序矩阵中第K小元素/pom.xml" />
+        <option value="$PROJECT_DIR$/645-错误的集合/pom.xml" />
+        <option value="$PROJECT_DIR$/287-寻找重复数/pom.xml" />
+        <option value="$PROJECT_DIR$/667-优美的排列2/pom.xml" />
+        <option value="$PROJECT_DIR$/697-数组的度/pom.xml" />
+        <option value="$PROJECT_DIR$/766-托普利茨矩阵/pom.xml" />
+        <option value="$PROJECT_DIR$/565-数组嵌套/pom.xml" />
+        <option value="$PROJECT_DIR$/769-最多能完成排序的块/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
