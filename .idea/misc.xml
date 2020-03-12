@@ -83,6 +83,14 @@
         <option value="$PROJECT_DIR$/647-回文子串的个数/pom.xml" />
         <option value="$PROJECT_DIR$/9-判断一个数是否是回文数/pom.xml" />
         <option value="$PROJECT_DIR$/696-二进制字串/pom.xml" />
+        <option value="$PROJECT_DIR$/1-两数之和/pom.xml" />
+        <option value="$PROJECT_DIR$/217-存在重复元素/pom.xml" />
+        <option value="$PROJECT_DIR$/594-最长和谐子序列/pom.xml" />
+        <option value="$PROJECT_DIR$/128-最长连续序列/pom.xml" />
+        <option value="$PROJECT_DIR$/136-数组中唯一不重复的数/pom.xml" />
+        <option value="$PROJECT_DIR$/231-2的幂/pom.xml" />
+        <option value="$PROJECT_DIR$/167-两数之和2-输入有序数组/pom.xml" />
+        <option value="$PROJECT_DIR$/633-平方数之和/pom.xml" />
       </list>
     </option>
   </component>
