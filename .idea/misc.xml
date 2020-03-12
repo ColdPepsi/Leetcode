@@ -77,6 +77,12 @@
         <option value="$PROJECT_DIR$/766-托普利茨矩阵/pom.xml" />
         <option value="$PROJECT_DIR$/565-数组嵌套/pom.xml" />
         <option value="$PROJECT_DIR$/769-最多能完成排序的块/pom.xml" />
+        <option value="$PROJECT_DIR$/242-有效的字母异位次/pom.xml" />
+        <option value="$PROJECT_DIR$/409-构造最长回文串/pom.xml" />
+        <option value="$PROJECT_DIR$/205-同构字符串/pom.xml" />
+        <option value="$PROJECT_DIR$/647-回文子串的个数/pom.xml" />
+        <option value="$PROJECT_DIR$/9-判断一个数是否是回文数/pom.xml" />
+        <option value="$PROJECT_DIR$/696-二进制字串/pom.xml" />
       </list>
     </option>
   </component>
