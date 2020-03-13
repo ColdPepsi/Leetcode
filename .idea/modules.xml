@@ -18,10 +18,13 @@
       <module fileurl="file://$PROJECT_DIR$/160-相交链表/160-相交链表.iml" filepath="$PROJECT_DIR$/160-相交链表/160-相交链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/167-两数之和2-输入有序数组/167-两数之和2-输入有序数组.iml" filepath="$PROJECT_DIR$/167-两数之和2-输入有序数组/167-两数之和2-输入有序数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/19-删除链表倒数第N个结点/19-删除链表倒数第N个结点.iml" filepath="$PROJECT_DIR$/19-删除链表倒数第N个结点/19-删除链表倒数第N个结点.iml" />
+      <module fileurl="file://$PROJECT_DIR$/198-打家劫舍/198-打家劫舍.iml" filepath="$PROJECT_DIR$/198-打家劫舍/198-打家劫舍.iml" />
       <module fileurl="file://$PROJECT_DIR$/20-有效的括号/20-有效的括号.iml" filepath="$PROJECT_DIR$/20-有效的括号/20-有效的括号.iml" />
       <module fileurl="file://$PROJECT_DIR$/205-同构字符串/205-同构字符串.iml" filepath="$PROJECT_DIR$/205-同构字符串/205-同构字符串.iml" />
       <module fileurl="file://$PROJECT_DIR$/206-反转链表/206-反转链表.iml" filepath="$PROJECT_DIR$/206-反转链表/206-反转链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/21-合并有序链表/21-合并有序链表.iml" filepath="$PROJECT_DIR$/21-合并有序链表/21-合并有序链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/213-打家劫舍2/213-打家劫舍2.iml" filepath="$PROJECT_DIR$/213-打家劫舍2/213-打家劫舍2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/215-数组中的第K个最大元素/215-数组中的第K个最大元素.iml" filepath="$PROJECT_DIR$/215-数组中的第K个最大元素/215-数组中的第K个最大元素.iml" />
       <module fileurl="file://$PROJECT_DIR$/217-存在重复元素/217-存在重复元素.iml" filepath="$PROJECT_DIR$/217-存在重复元素/217-存在重复元素.iml" />
       <module fileurl="file://$PROJECT_DIR$/225-用队列模拟栈/225-用队列模拟栈.iml" filepath="$PROJECT_DIR$/225-用队列模拟栈/225-用队列模拟栈.iml" />
       <module fileurl="file://$PROJECT_DIR$/226-翻转二叉树/226-翻转二叉树.iml" filepath="$PROJECT_DIR$/226-翻转二叉树/226-翻转二叉树.iml" />
@@ -38,11 +41,13 @@
       <module fileurl="file://$PROJECT_DIR$/287-寻找重复数/287-寻找重复数.iml" filepath="$PROJECT_DIR$/287-寻找重复数/287-寻找重复数.iml" />
       <module fileurl="file://$PROJECT_DIR$/328-奇偶链表/328-奇偶链表.iml" filepath="$PROJECT_DIR$/328-奇偶链表/328-奇偶链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/337-打家劫舍3间隔遍历/337-打家劫舍3间隔遍历.iml" filepath="$PROJECT_DIR$/337-打家劫舍3间隔遍历/337-打家劫舍3间隔遍历.iml" />
+      <module fileurl="file://$PROJECT_DIR$/347-前K个高频元素/347-前K个高频元素.iml" filepath="$PROJECT_DIR$/347-前K个高频元素/347-前K个高频元素.iml" />
       <module fileurl="file://$PROJECT_DIR$/378-有序矩阵中第K小元素/378-有序矩阵中第K小元素.iml" filepath="$PROJECT_DIR$/378-有序矩阵中第K小元素/378-有序矩阵中第K小元素.iml" />
       <module fileurl="file://$PROJECT_DIR$/404-左叶子之和/404-左叶子之和.iml" filepath="$PROJECT_DIR$/404-左叶子之和/404-左叶子之和.iml" />
       <module fileurl="file://$PROJECT_DIR$/409-构造最长回文串/409-构造最长回文串.iml" filepath="$PROJECT_DIR$/409-构造最长回文串/409-构造最长回文串.iml" />
       <module fileurl="file://$PROJECT_DIR$/437-路径总和3/437-路径总和3.iml" filepath="$PROJECT_DIR$/437-路径总和3/437-路径总和3.iml" />
       <module fileurl="file://$PROJECT_DIR$/445-两数相加/445-两数相加.iml" filepath="$PROJECT_DIR$/445-两数相加/445-两数相加.iml" />
+      <module fileurl="file://$PROJECT_DIR$/451-按照字符出现频率排序/451-按照字符出现频率排序.iml" filepath="$PROJECT_DIR$/451-按照字符出现频率排序/451-按照字符出现频率排序.iml" />
       <module fileurl="file://$PROJECT_DIR$/485-最大连续1的个数/485-最大连续1的个数.iml" filepath="$PROJECT_DIR$/485-最大连续1的个数/485-最大连续1的个数.iml" />
       <module fileurl="file://$PROJECT_DIR$/501-二叉搜索树中的众数/501-二叉搜索树中的众数.iml" filepath="$PROJECT_DIR$/501-二叉搜索树中的众数/501-二叉搜索树中的众数.iml" />
       <module fileurl="file://$PROJECT_DIR$/503-下一个更大的元素2/503-下一个更大的元素2.iml" filepath="$PROJECT_DIR$/503-下一个更大的元素2/503-下一个更大的元素2.iml" />
@@ -66,8 +71,10 @@
       <module fileurl="file://$PROJECT_DIR$/687-最长同值路径/687-最长同值路径.iml" filepath="$PROJECT_DIR$/687-最长同值路径/687-最长同值路径.iml" />
       <module fileurl="file://$PROJECT_DIR$/696-计数二进制字串/696-计数二进制字串.iml" filepath="$PROJECT_DIR$/696-计数二进制字串/696-计数二进制字串.iml" />
       <module fileurl="file://$PROJECT_DIR$/697-数组的度/697-数组的度.iml" filepath="$PROJECT_DIR$/697-数组的度/697-数组的度.iml" />
+      <module fileurl="file://$PROJECT_DIR$/70-爬楼梯/70-爬楼梯.iml" filepath="$PROJECT_DIR$/70-爬楼梯/70-爬楼梯.iml" />
       <module fileurl="file://$PROJECT_DIR$/725-分隔链表/725-分隔链表.iml" filepath="$PROJECT_DIR$/725-分隔链表/725-分隔链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/739-每日温度/739-每日温度.iml" filepath="$PROJECT_DIR$/739-每日温度/739-每日温度.iml" />
+      <module fileurl="file://$PROJECT_DIR$/75-颜色分类/75-颜色分类.iml" filepath="$PROJECT_DIR$/75-颜色分类/75-颜色分类.iml" />
       <module fileurl="file://$PROJECT_DIR$/766-托普利茨矩阵/766-托普利茨矩阵.iml" filepath="$PROJECT_DIR$/766-托普利茨矩阵/766-托普利茨矩阵.iml" />
       <module fileurl="file://$PROJECT_DIR$/769-最多能完成排序的块/769-最多能完成排序的块.iml" filepath="$PROJECT_DIR$/769-最多能完成排序的块/769-最多能完成排序的块.iml" />
       <module fileurl="file://$PROJECT_DIR$/83-删除排序链表中的重复元素/83-删除排序链表中的重复元素.iml" filepath="$PROJECT_DIR$/83-删除排序链表中的重复元素/83-删除排序链表中的重复元素.iml" />

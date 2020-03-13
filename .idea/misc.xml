@@ -91,6 +91,13 @@
         <option value="$PROJECT_DIR$/231-2的幂/pom.xml" />
         <option value="$PROJECT_DIR$/167-两数之和2-输入有序数组/pom.xml" />
         <option value="$PROJECT_DIR$/633-平方数之和/pom.xml" />
+        <option value="$PROJECT_DIR$/215-数组中的第K个最大元素/pom.xml" />
+        <option value="$PROJECT_DIR$/347-前K个高频元素/pom.xml" />
+        <option value="$PROJECT_DIR$/451-按照字符出现频率排序/pom.xml" />
+        <option value="$PROJECT_DIR$/75-颜色分类/pom.xml" />
+        <option value="$PROJECT_DIR$/70-爬楼梯/pom.xml" />
+        <option value="$PROJECT_DIR$/198-打家劫舍/pom.xml" />
+        <option value="$PROJECT_DIR$/213-打家劫舍2/pom.xml" />
       </list>
     </option>
   </component>
