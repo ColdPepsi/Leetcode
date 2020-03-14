@@ -98,6 +98,13 @@
         <option value="$PROJECT_DIR$/70-爬楼梯/pom.xml" />
         <option value="$PROJECT_DIR$/198-打家劫舍/pom.xml" />
         <option value="$PROJECT_DIR$/213-打家劫舍2/pom.xml" />
+        <option value="$PROJECT_DIR$/64-矩阵的最小路径和/pom.xml" />
+        <option value="$PROJECT_DIR$/62-不同的路径/pom.xml" />
+        <option value="$PROJECT_DIR$/303-区域和检索-数组不可变/pom.xml" />
+        <option value="$PROJECT_DIR$/413-等差数列划分/pom.xml" />
+        <option value="$PROJECT_DIR$/343-整数拆分/pom.xml" />
+        <option value="$PROJECT_DIR$/279-完全平方数/pom.xml" />
+        <option value="$PROJECT_DIR$/91-解码方法-分割整数构成的字母字符串/pom.xml" />
       </list>
     </option>
   </component>
