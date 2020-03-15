@@ -105,6 +105,10 @@
         <option value="$PROJECT_DIR$/343-整数拆分/pom.xml" />
         <option value="$PROJECT_DIR$/279-完全平方数/pom.xml" />
         <option value="$PROJECT_DIR$/91-解码方法-分割整数构成的字母字符串/pom.xml" />
+        <option value="$PROJECT_DIR$/300-最长上升子序列/pom.xml" />
+        <option value="$PROJECT_DIR$/646-最长数对链/pom.xml" />
+        <option value="$PROJECT_DIR$/376-最长摆动序列/pom.xml" />
+        <option value="$PROJECT_DIR$/1143-最长公共子序列/pom.xml" />
       </list>
     </option>
   </component>
