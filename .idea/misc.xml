@@ -111,6 +111,14 @@
         <option value="$PROJECT_DIR$/1143-最长公共子序列/pom.xml" />
         <option value="$PROJECT_DIR$/416-分割等和子集/pom.xml" />
         <option value="$PROJECT_DIR$/494-目标和/pom.xml" />
+        <option value="$PROJECT_DIR$/474-01字符构成的最多的字符串/pom.xml" />
+        <option value="$PROJECT_DIR$/322-零钱兑换/pom.xml" />
+        <option value="$PROJECT_DIR$/518-零钱兑换2/pom.xml" />
+        <option value="$PROJECT_DIR$/139-字符串按单词列表分割/pom.xml" />
+        <option value="$PROJECT_DIR$/377-组合总数4/pom.xml" />
+        <option value="$PROJECT_DIR$/583-两个字符串的删除操作/pom.xml" />
+        <option value="$PROJECT_DIR$/72-编辑距离/pom.xml" />
+        <option value="$PROJECT_DIR$/650-2键键盘复制粘贴字符/pom.xml" />
       </list>
     </option>
   </component>
