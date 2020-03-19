@@ -119,6 +119,19 @@
         <option value="$PROJECT_DIR$/583-两个字符串的删除操作/pom.xml" />
         <option value="$PROJECT_DIR$/72-编辑距离/pom.xml" />
         <option value="$PROJECT_DIR$/650-2键键盘复制粘贴字符/pom.xml" />
+        <option value="$PROJECT_DIR$/744-寻找比目标大的最小字母/pom.xml" />
+        <option value="$PROJECT_DIR$/34-在排序数组中查找元素的第一个和最后一个位置/pom.xml" />
+        <option value="$PROJECT_DIR$/153-旋转数组的最小值/pom.xml" />
+        <option value="$PROJECT_DIR$/455-分发饼干/pom.xml" />
+        <option value="$PROJECT_DIR$/435-无重叠区间/pom.xml" />
+        <option value="$PROJECT_DIR$/452-用最少数量的箭引爆气球/pom.xml" />
+        <option value="$PROJECT_DIR$/406-根据身高重建队列/pom.xml" />
+        <option value="$PROJECT_DIR$/121-买卖股票的最佳时机/pom.xml" />
+        <option value="$PROJECT_DIR$/122-买卖股票的最大收益 II/pom.xml" />
+        <option value="$PROJECT_DIR$/605-种花问题/pom.xml" />
+        <option value="$PROJECT_DIR$/392-判断子序列/pom.xml" />
+        <option value="$PROJECT_DIR$/665-非递减序列/pom.xml" />
+        <option value="$PROJECT_DIR$/53-最大子序和/pom.xml" />
       </list>
     </option>
   </component>
