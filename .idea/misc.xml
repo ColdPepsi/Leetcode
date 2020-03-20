@@ -132,6 +132,9 @@
         <option value="$PROJECT_DIR$/392-判断子序列/pom.xml" />
         <option value="$PROJECT_DIR$/665-非递减序列/pom.xml" />
         <option value="$PROJECT_DIR$/53-最大子序和/pom.xml" />
+        <option value="$PROJECT_DIR$/763-划分字母区间/pom.xml" />
+        <option value="$PROJECT_DIR$/102-二叉树的层次遍历/pom.xml" />
+        <option value="$PROJECT_DIR$/1091-二进制矩阵中的最短路径/pom.xml" />
       </list>
     </option>
   </component>
