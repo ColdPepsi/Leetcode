@@ -135,6 +135,11 @@
         <option value="$PROJECT_DIR$/763-划分字母区间/pom.xml" />
         <option value="$PROJECT_DIR$/102-二叉树的层次遍历/pom.xml" />
         <option value="$PROJECT_DIR$/1091-二进制矩阵中的最短路径/pom.xml" />
+        <option value="$PROJECT_DIR$/695-岛屿的最大面积/pom.xml" />
+        <option value="$PROJECT_DIR$/200-岛屿数量/pom.xml" />
+        <option value="$PROJECT_DIR$/547-朋友圈/pom.xml" />
+        <option value="$PROJECT_DIR$/130-被围绕的区域/pom.xml" />
+        <option value="$PROJECT_DIR$/417-太平洋大西洋水流问题/pom.xml" />
       </list>
     </option>
   </component>
