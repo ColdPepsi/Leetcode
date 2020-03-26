@@ -160,6 +160,13 @@
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
         <option value="$PROJECT_DIR$/141-环形链表/pom.xml" />
         <option value="$PROJECT_DIR$/524-通过删除字母匹配到字典里最长单词/pom.xml" />
+        <option value="$PROJECT_DIR$/最长回文子串/pom.xml" />
+        <option value="$PROJECT_DIR$/204-计数质数/pom.xml" />
+        <option value="$PROJECT_DIR$/504-七进制数/pom.xml" />
+        <option value="$PROJECT_DIR$/168-Excel列表名称/pom.xml" />
+        <option value="$PROJECT_DIR$/172-阶乘后的零/pom.xml" />
+        <option value="$PROJECT_DIR$/67-二进制求和/pom.xml" />
+        <option value="$PROJECT_DIR$/415-字符串相加/pom.xml" />
       </list>
     </option>
   </component>
