@@ -167,6 +167,12 @@
         <option value="$PROJECT_DIR$/172-阶乘后的零/pom.xml" />
         <option value="$PROJECT_DIR$/67-二进制求和/pom.xml" />
         <option value="$PROJECT_DIR$/415-字符串相加/pom.xml" />
+        <option value="$PROJECT_DIR$/462-最少移动次数使数组元素相等 II/pom.xml" />
+        <option value="$PROJECT_DIR$/169-多数元素/pom.xml" />
+        <option value="$PROJECT_DIR$/367-有效的完全平方数/pom.xml" />
+        <option value="$PROJECT_DIR$/326-3的幂/pom.xml" />
+        <option value="$PROJECT_DIR$/238-除自身以外数组的乘积/pom.xml" />
+        <option value="$PROJECT_DIR$/628-三个数的最大乘积/pom.xml" />
       </list>
     </option>
   </component>
