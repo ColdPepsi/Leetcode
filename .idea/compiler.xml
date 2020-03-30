@@ -8,29 +8,30 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="566-重塑矩阵" />
-        <module name="172-阶乘后的零" />
         <module name="303-区域和检索-数组不可变" />
         <module name="34-在排序数组中查找元素的第一个和最后一个位置" />
         <module name="72-编辑距离" />
+        <module name="530-二叉搜索树的最小绝对差" />
         <module name="93-复原IP地址" />
-        <module name="669-修剪二叉搜索树" />
+        <module name="367-有效的完全平方数" />
         <module name="455-分发饼干" />
         <module name="501-二叉搜索树中的众数" />
+        <module name="67-二进制求和" />
         <module name="392-判断子序列" />
         <module name="1-两数之和" />
         <module name="406-根据身高重建队列" />
         <module name="518-零钱兑换2" />
-        <module name="17-电话号码的字母组合" />
+        <module name="190-颠倒二进制位" />
         <module name="78-子集" />
         <module name="75-颜色分类" />
         <module name="769-最多能完成排序的块" />
-        <module name="217-存在重复元素" />
         <module name="51-N皇后" />
         <module name="300-最长上升子序列" />
         <module name="653-两数之和4-输入BST" />
         <module name="167-两数之和2-输入有序数组" />
         <module name="485-最大连续1的个数" />
         <module name="633-平方数之和" />
+        <module name="371-两整数之和" />
         <module name="141-环形链表" />
         <module name="101-对称二叉树" />
         <module name="160-相交链表" />
@@ -39,29 +40,30 @@
         <module name="111-二叉树最小深度" />
         <module name="667-优美的排列2" />
         <module name="415-字符串相加" />
-        <module name="102-二叉树的层次遍历" />
-        <module name="136-数组中唯一不重复的数" />
+        <module name="235-二叉搜索树的最近公共祖先" />
         <module name="108-将有序数组转化为平衡二叉树" />
         <module name="206-反转链表" />
         <module name="543-二叉树的直径" />
+        <module name="461-汉明距离" />
         <module name="1143-最长公共子序列" />
         <module name="572-另一棵树的子树" />
+        <module name="476-数字的补数" />
         <module name="671-二叉树中第二小的结点" />
-        <module name="67-二进制求和" />
+        <module name="238-除自身以外数组的乘积" />
         <module name="232-用栈实现队列" />
-        <module name="47-全排列 II" />
         <module name="538-把二叉搜索树变成累加树" />
         <module name="617-合并二叉树" />
         <module name="242-有效的字母异位词" />
         <module name="462-最少移动次数使数组元素相等 II" />
         <module name="225-用队列模拟栈" />
+        <module name="645-错误的集合" />
         <module name="70-爬楼梯" />
         <module name="226-翻转二叉树" />
         <module name="145-二叉树的后序非递归遍历" />
         <module name="39-组合总和" />
         <module name="347-前K个高频元素" />
+        <module name="17-电话号码的字母组合" />
         <module name="513-找树左下角的值" />
-        <module name="200-岛屿数量" />
         <module name="494-目标和" />
         <module name="646-最长数对链" />
         <module name="104-二叉树最大深度" />
@@ -74,28 +76,31 @@
         <module name="451-按照字符出现频率排序" />
         <module name="343-整数拆分" />
         <module name="739-每日温度" />
+        <module name="342-4的幂" />
+        <module name="318-最大单词长度乘积" />
         <module name="205-同构字符串" />
-        <module name="238-除自身以外数组的乘积" />
+        <module name="417-太平洋大西洋水流问题" />
+        <module name="35-搜索插入位置" />
         <module name="40-组合求和2" />
         <module name="236-二叉树的最近公共祖先" />
         <module name="695-岛屿的最大面积" />
-        <module name="326-3的幂" />
         <module name="53-最大子序和" />
         <module name="240-搜索二维矩阵2" />
         <module name="198-打家劫舍" />
-        <module name="128-最长连续序列" />
+        <module name="77-组合" />
         <module name="278-第一个错误的版本" />
         <module name="628-三个数的最大乘积" />
-        <module name="367-有效的完全平方数" />
         <module name="435-无重叠区间" />
         <module name="64-矩阵的最小路径和" />
         <module name="322-零钱兑换" />
         <module name="216-组合总和3" />
         <module name="155-最小栈" />
         <module name="725-分隔链表" />
+        <module name="338-比特位计数" />
         <module name="744-寻找比目标大的最小字母" />
         <module name="413-等差数列划分" />
         <module name="153-旋转数组的最小值" />
+        <module name="377-组合总数4" />
         <module name="404-左叶子之和" />
         <module name="21-合并有序链表" />
         <module name="1091-二进制矩阵中的最短路径" />
@@ -103,6 +108,7 @@
         <module name="69-x的平方根" />
         <module name="231-2的幂" />
         <module name="110-平衡二叉树" />
+        <module name="328-奇偶链表" />
         <module name="88-合并两个有序数组" />
         <module name="547-朋友圈" />
         <module name="9-判断一个数是否是回文数" />
@@ -111,20 +117,22 @@
         <module name="common" />
         <module name="83-删除排序链表中的重复元素" />
         <module name="94-二叉树中序非递归遍历" />
-        <module name="645-错误的集合" />
+        <module name="693-交替位二进制数" />
         <module name="257-二叉树的所有路径" />
-        <module name="650-2键键盘复制粘贴字符" />
+        <module name="268-缺失数字" />
         <module name="204-计数质数" />
         <module name="337-打家劫舍3间隔遍历" />
         <module name="234-回文链表" />
+        <module name="260-只出现一次的数字 III" />
         <module name="90-子集2" />
-        <module name="77-组合" />
-        <module name="565-数组嵌套" />
+        <module name="669-修剪二叉搜索树" />
+        <module name="326-3的幂" />
         <module name="131-分割回文串" />
         <module name="287-寻找重复数" />
         <module name="583-两个字符串的删除操作" />
         <module name="109-将有序的链表转换为平衡的二叉搜索树" />
         <module name="378-有序矩阵中第K小元素" />
+        <module name="200-岛屿数量" />
         <module name="144-二叉树的先序非递归遍历" />
         <module name="24-两两交换链表中的结点" />
         <module name="79-单词搜索" />
@@ -135,10 +143,11 @@
         <module name="409-构造最长回文串" />
         <module name="213-打家劫舍2" />
         <module name="445-两数相加" />
-        <module name="417-太平洋大西洋水流问题" />
+        <module name="230-二叉搜索树中第K小元素" />
+        <module name="102-二叉树的层次遍历" />
         <module name="139-字符串按单词列表分割" />
         <module name="524-通过删除字母匹配到字典里最长单词" />
-        <module name="235-二叉搜索树的最近公共祖先" />
+        <module name="172-阶乘后的零" />
         <module name="766-托普利茨矩阵" />
         <module name="376-最长摆动序列" />
         <module name="665-非递减序列" />
@@ -148,15 +157,17 @@
         <module name="680-验证回文字符串 Ⅱ" />
         <module name="687-最长同值路径" />
         <module name="283-移动零" />
+        <module name="62-不同的路径" />
         <module name="168-Excel列表名称" />
-        <module name="230-二叉搜索树中第K小元素" />
+        <module name="128-最长连续序列" />
+        <module name="136-数组中唯一不重复的数" />
         <module name="20-有效的括号" />
-        <module name="328-奇偶链表" />
+        <module name="217-存在重复元素" />
         <module name="416-分割等和子集" />
         <module name="437-路径总和3" />
-        <module name="377-组合总数4" />
-        <module name="62-不同的路径" />
-        <module name="530-二叉搜索树的最小绝对差" />
+        <module name="565-数组嵌套" />
+        <module name="650-2键键盘复制粘贴字符" />
+        <module name="47-全排列 II" />
         <module name="5-最长回文子串" />
         <module name="169-多数元素" />
         <module name="91-解码方法-分割整数构成的字母字符串" />
@@ -194,6 +205,7 @@
       <module name="17-电话号码的字母组合" target="1.5" />
       <module name="172-阶乘后的零" target="1.5" />
       <module name="19-删除链表倒数第N个结点" target="1.5" />
+      <module name="190-颠倒二进制位" target="1.5" />
       <module name="198-打家劫舍" target="1.5" />
       <module name="20-有效的括号" target="1.5" />
       <module name="200-岛屿数量" target="1.5" />
@@ -218,20 +230,27 @@
       <module name="240-搜索二维矩阵2" target="1.5" />
       <module name="242-有效的字母异位词" target="1.5" />
       <module name="257-二叉树的所有路径" target="1.5" />
+      <module name="260-只出现一次的数字 III" target="1.5" />
+      <module name="268-缺失数字" target="1.5" />
       <module name="278-第一个错误的版本" target="1.5" />
       <module name="279-完全平方数" target="1.5" />
       <module name="283-移动零" target="1.5" />
       <module name="287-寻找重复数" target="1.5" />
       <module name="300-最长上升子序列" target="1.5" />
       <module name="303-区域和检索-数组不可变" target="1.5" />
+      <module name="318-最大单词长度乘积" target="1.5" />
       <module name="322-零钱兑换" target="1.5" />
       <module name="326-3的幂" target="1.5" />
       <module name="328-奇偶链表" target="1.5" />
       <module name="337-打家劫舍3间隔遍历" target="1.5" />
+      <module name="338-比特位计数" target="1.5" />
       <module name="34-在排序数组中查找元素的第一个和最后一个位置" target="1.5" />
+      <module name="342-4的幂" target="1.5" />
       <module name="343-整数拆分" target="1.5" />
       <module name="347-前K个高频元素" target="8" />
+      <module name="35-搜索插入位置" target="1.5" />
       <module name="367-有效的完全平方数" target="1.5" />
+      <module name="371-两整数之和" target="1.5" />
       <module name="376-最长摆动序列" target="1.5" />
       <module name="377-组合总数4" target="1.5" />
       <module name="378-有序矩阵中第K小元素" target="1.5" />
@@ -252,9 +271,11 @@
       <module name="452-用最少数量的箭引爆气球" target="1.5" />
       <module name="455-分发饼干" target="1.5" />
       <module name="46-全排列" target="1.5" />
+      <module name="461-汉明距离" target="1.5" />
       <module name="462-最少移动次数使数组元素相等 II" target="1.5" />
       <module name="47-全排列 II" target="1.5" />
       <module name="474-01字符构成的最多的字符串" target="1.5" />
+      <module name="476-数字的补数" target="1.5" />
       <module name="485-最大连续1的个数" target="1.5" />
       <module name="494-目标和" target="1.5" />
       <module name="5-最长回文子串" target="1.5" />
@@ -295,6 +316,7 @@
       <module name="680-验证回文字符串 Ⅱ" target="1.5" />
       <module name="687-最长同值路径" target="1.5" />
       <module name="69-x的平方根" target="1.5" />
+      <module name="693-交替位二进制数" target="1.5" />
       <module name="695-岛屿的最大面积" target="1.5" />
       <module name="696-计数二进制字串" target="1.5" />
       <module name="697-数组的度" target="8" />
