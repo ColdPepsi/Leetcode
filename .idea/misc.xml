@@ -184,6 +184,11 @@
         <option value="$PROJECT_DIR$/371-两整数之和/pom.xml" />
         <option value="$PROJECT_DIR$/318-最大单词长度乘积/pom.xml" />
         <option value="$PROJECT_DIR$/338-比特位计数/pom.xml" />
+        <option value="$PROJECT_DIR$/106-从中序与后序遍历序列构造二叉树/pom.xml" />
+        <option value="$PROJECT_DIR$/105-从前序与中序遍历序列构造二叉树/pom.xml" />
+        <option value="$PROJECT_DIR$/96-不同的二叉搜索树/pom.xml" />
+        <option value="$PROJECT_DIR$/95-不同的二叉搜索树 II/pom.xml" />
+        <option value="$PROJECT_DIR$/面试题 08.12. 八皇后/pom.xml" />
       </list>
     </option>
   </component>

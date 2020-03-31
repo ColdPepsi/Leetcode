@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/101-对称二叉树/101-对称二叉树.iml" filepath="$PROJECT_DIR$/101-对称二叉树/101-对称二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/102-二叉树的层次遍历/102-二叉树的层次遍历.iml" filepath="$PROJECT_DIR$/102-二叉树的层次遍历/102-二叉树的层次遍历.iml" />
       <module fileurl="file://$PROJECT_DIR$/104-二叉树最大深度/104-二叉树最大深度.iml" filepath="$PROJECT_DIR$/104-二叉树最大深度/104-二叉树最大深度.iml" />
+      <module fileurl="file://$PROJECT_DIR$/105-从前序与中序遍历序列构造二叉树/105-从前序与中序遍历序列构造二叉树.iml" filepath="$PROJECT_DIR$/105-从前序与中序遍历序列构造二叉树/105-从前序与中序遍历序列构造二叉树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/106-从中序与后序遍历序列构造二叉树/106-从中序与后序遍历序列构造二叉树.iml" filepath="$PROJECT_DIR$/106-从中序与后序遍历序列构造二叉树/106-从中序与后序遍历序列构造二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/108-将有序数组转化为平衡二叉树/108-将有序数组转化为平衡二叉树.iml" filepath="$PROJECT_DIR$/108-将有序数组转化为平衡二叉树/108-将有序数组转化为平衡二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/109-将有序的链表转换为平衡的二叉搜索树/109-将有序的链表转换为平衡的二叉搜索树.iml" filepath="$PROJECT_DIR$/109-将有序的链表转换为平衡的二叉搜索树/109-将有序的链表转换为平衡的二叉搜索树.iml" />
       <module fileurl="file://$PROJECT_DIR$/1091-二进制矩阵中的最短路径/1091-二进制矩阵中的最短路径.iml" filepath="$PROJECT_DIR$/1091-二进制矩阵中的最短路径/1091-二进制矩阵中的最短路径.iml" />
@@ -166,8 +168,11 @@
       <module fileurl="file://$PROJECT_DIR$/91-解码方法-分割整数构成的字母字符串/91-解码方法-分割整数构成的字母字符串.iml" filepath="$PROJECT_DIR$/91-解码方法-分割整数构成的字母字符串/91-解码方法-分割整数构成的字母字符串.iml" />
       <module fileurl="file://$PROJECT_DIR$/93-复原IP地址/93-复原IP地址.iml" filepath="$PROJECT_DIR$/93-复原IP地址/93-复原IP地址.iml" />
       <module fileurl="file://$PROJECT_DIR$/94-二叉树中序非递归遍历/94-二叉树中序非递归遍历.iml" filepath="$PROJECT_DIR$/94-二叉树中序非递归遍历/94-二叉树中序非递归遍历.iml" />
+      <module fileurl="file://$PROJECT_DIR$/95-不同的二叉搜索树 II/95-不同的二叉搜索树 II.iml" filepath="$PROJECT_DIR$/95-不同的二叉搜索树 II/95-不同的二叉搜索树 II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/96-不同的二叉搜索树/96-不同的二叉搜索树.iml" filepath="$PROJECT_DIR$/96-不同的二叉搜索树/96-不同的二叉搜索树.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/面试题 08.12. 八皇后/面试题 08.12. 八皇后.iml" filepath="$PROJECT_DIR$/面试题 08.12. 八皇后/面试题 08.12. 八皇后.iml" />
     </modules>
   </component>
 </project>
