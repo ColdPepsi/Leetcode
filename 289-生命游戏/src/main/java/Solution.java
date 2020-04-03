@@ -23,9 +23,8 @@ public class Solution {
 
         int[][] states = new int[row][col];
         for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
-                states[i][j] = board[i][j];//复制到states
-            }
+            //复制到states
+            if (col >= 0) System.arraycopy(board[i], 0, states[i], 0, col);
         }
         check(states);
     }

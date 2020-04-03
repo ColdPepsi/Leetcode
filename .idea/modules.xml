@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-两数之和/1-两数之和.iml" filepath="$PROJECT_DIR$/1-两数之和/1-两数之和.iml" />
+      <module fileurl="file://$PROJECT_DIR$/100-相同的树/100-相同的树.iml" filepath="$PROJECT_DIR$/100-相同的树/100-相同的树.iml" />
       <module fileurl="file://$PROJECT_DIR$/101-对称二叉树/101-对称二叉树.iml" filepath="$PROJECT_DIR$/101-对称二叉树/101-对称二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/102-二叉树的层次遍历/102-二叉树的层次遍历.iml" filepath="$PROJECT_DIR$/102-二叉树的层次遍历/102-二叉树的层次遍历.iml" />
       <module fileurl="file://$PROJECT_DIR$/104-二叉树最大深度/104-二叉树最大深度.iml" filepath="$PROJECT_DIR$/104-二叉树最大深度/104-二叉树最大深度.iml" />
@@ -48,6 +49,7 @@
       <module fileurl="file://$PROJECT_DIR$/215-数组中的第K个最大元素/215-数组中的第K个最大元素.iml" filepath="$PROJECT_DIR$/215-数组中的第K个最大元素/215-数组中的第K个最大元素.iml" />
       <module fileurl="file://$PROJECT_DIR$/216-组合总和3/216-组合总和3.iml" filepath="$PROJECT_DIR$/216-组合总和3/216-组合总和3.iml" />
       <module fileurl="file://$PROJECT_DIR$/217-存在重复元素/217-存在重复元素.iml" filepath="$PROJECT_DIR$/217-存在重复元素/217-存在重复元素.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-括号生成/22-括号生成.iml" filepath="$PROJECT_DIR$/22-括号生成/22-括号生成.iml" />
       <module fileurl="file://$PROJECT_DIR$/225-用队列模拟栈/225-用队列模拟栈.iml" filepath="$PROJECT_DIR$/225-用队列模拟栈/225-用队列模拟栈.iml" />
       <module fileurl="file://$PROJECT_DIR$/226-翻转二叉树/226-翻转二叉树.iml" filepath="$PROJECT_DIR$/226-翻转二叉树/226-翻转二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/23-合并K个排序链表/23-合并K个排序链表.iml" filepath="$PROJECT_DIR$/23-合并K个排序链表/23-合并K个排序链表.iml" />
@@ -97,6 +99,7 @@
       <module fileurl="file://$PROJECT_DIR$/415-字符串相加/415-字符串相加.iml" filepath="$PROJECT_DIR$/415-字符串相加/415-字符串相加.iml" />
       <module fileurl="file://$PROJECT_DIR$/416-分割等和子集/416-分割等和子集.iml" filepath="$PROJECT_DIR$/416-分割等和子集/416-分割等和子集.iml" />
       <module fileurl="file://$PROJECT_DIR$/417-太平洋大西洋水流问题/417-太平洋大西洋水流问题.iml" filepath="$PROJECT_DIR$/417-太平洋大西洋水流问题/417-太平洋大西洋水流问题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/426-将二叉搜索树转化为排序的双向链表/426-将二叉搜索树转化为排序的双向链表.iml" filepath="$PROJECT_DIR$/426-将二叉搜索树转化为排序的双向链表/426-将二叉搜索树转化为排序的双向链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/435-无重叠区间/435-无重叠区间.iml" filepath="$PROJECT_DIR$/435-无重叠区间/435-无重叠区间.iml" />
       <module fileurl="file://$PROJECT_DIR$/437-路径总和3/437-路径总和3.iml" filepath="$PROJECT_DIR$/437-路径总和3/437-路径总和3.iml" />
       <module fileurl="file://$PROJECT_DIR$/445-两数相加/445-两数相加.iml" filepath="$PROJECT_DIR$/445-两数相加/445-两数相加.iml" />
@@ -117,6 +120,7 @@
       <module fileurl="file://$PROJECT_DIR$/504-七进制数/504-七进制数.iml" filepath="$PROJECT_DIR$/504-七进制数/504-七进制数.iml" />
       <module fileurl="file://$PROJECT_DIR$/51-N皇后/51-N皇后.iml" filepath="$PROJECT_DIR$/51-N皇后/51-N皇后.iml" />
       <module fileurl="file://$PROJECT_DIR$/513-找树左下角的值/513-找树左下角的值.iml" filepath="$PROJECT_DIR$/513-找树左下角的值/513-找树左下角的值.iml" />
+      <module fileurl="file://$PROJECT_DIR$/516-最长回文子序列/516-最长回文子序列.iml" filepath="$PROJECT_DIR$/516-最长回文子序列/516-最长回文子序列.iml" />
       <module fileurl="file://$PROJECT_DIR$/518-零钱兑换2/518-零钱兑换2.iml" filepath="$PROJECT_DIR$/518-零钱兑换2/518-零钱兑换2.iml" />
       <module fileurl="file://$PROJECT_DIR$/524-通过删除字母匹配到字典里最长单词/524-通过删除字母匹配到字典里最长单词.iml" filepath="$PROJECT_DIR$/524-通过删除字母匹配到字典里最长单词/524-通过删除字母匹配到字典里最长单词.iml" />
       <module fileurl="file://$PROJECT_DIR$/53-最大子序和/53-最大子序和.iml" filepath="$PROJECT_DIR$/53-最大子序和/53-最大子序和.iml" />
@@ -166,6 +170,7 @@
       <module fileurl="file://$PROJECT_DIR$/77-组合/77-组合.iml" filepath="$PROJECT_DIR$/77-组合/77-组合.iml" />
       <module fileurl="file://$PROJECT_DIR$/78-子集/78-子集.iml" filepath="$PROJECT_DIR$/78-子集/78-子集.iml" />
       <module fileurl="file://$PROJECT_DIR$/79-单词搜索/79-单词搜索.iml" filepath="$PROJECT_DIR$/79-单词搜索/79-单词搜索.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-字符串转换整数 (atoi)/8-字符串转换整数 (atoi).iml" filepath="$PROJECT_DIR$/8-字符串转换整数 (atoi)/8-字符串转换整数 (atoi).iml" />
       <module fileurl="file://$PROJECT_DIR$/83-删除排序链表中的重复元素/83-删除排序链表中的重复元素.iml" filepath="$PROJECT_DIR$/83-删除排序链表中的重复元素/83-删除排序链表中的重复元素.iml" />
       <module fileurl="file://$PROJECT_DIR$/88-合并两个有序数组/88-合并两个有序数组.iml" filepath="$PROJECT_DIR$/88-合并两个有序数组/88-合并两个有序数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/9-判断一个数是否是回文数/9-判断一个数是否是回文数.iml" filepath="$PROJECT_DIR$/9-判断一个数是否是回文数/9-判断一个数是否是回文数.iml" />
