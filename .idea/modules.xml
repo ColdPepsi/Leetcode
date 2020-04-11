@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/104-二叉树最大深度/104-二叉树最大深度.iml" filepath="$PROJECT_DIR$/104-二叉树最大深度/104-二叉树最大深度.iml" />
       <module fileurl="file://$PROJECT_DIR$/105-从前序与中序遍历序列构造二叉树/105-从前序与中序遍历序列构造二叉树.iml" filepath="$PROJECT_DIR$/105-从前序与中序遍历序列构造二叉树/105-从前序与中序遍历序列构造二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/106-从中序与后序遍历序列构造二叉树/106-从中序与后序遍历序列构造二叉树.iml" filepath="$PROJECT_DIR$/106-从中序与后序遍历序列构造二叉树/106-从中序与后序遍历序列构造二叉树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/107-二叉树的层次遍历 II/107-二叉树的层次遍历 II.iml" filepath="$PROJECT_DIR$/107-二叉树的层次遍历 II/107-二叉树的层次遍历 II.iml" />
       <module fileurl="file://$PROJECT_DIR$/108-将有序数组转化为平衡二叉树/108-将有序数组转化为平衡二叉树.iml" filepath="$PROJECT_DIR$/108-将有序数组转化为平衡二叉树/108-将有序数组转化为平衡二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/109-将有序的链表转换为平衡的二叉搜索树/109-将有序的链表转换为平衡的二叉搜索树.iml" filepath="$PROJECT_DIR$/109-将有序的链表转换为平衡的二叉搜索树/109-将有序的链表转换为平衡的二叉搜索树.iml" />
       <module fileurl="file://$PROJECT_DIR$/1091-二进制矩阵中的最短路径/1091-二进制矩阵中的最短路径.iml" filepath="$PROJECT_DIR$/1091-二进制矩阵中的最短路径/1091-二进制矩阵中的最短路径.iml" />
@@ -28,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/141-环形链表/141-环形链表.iml" filepath="$PROJECT_DIR$/141-环形链表/141-环形链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/144-二叉树的先序非递归遍历/144-二叉树的先序非递归遍历.iml" filepath="$PROJECT_DIR$/144-二叉树的先序非递归遍历/144-二叉树的先序非递归遍历.iml" />
       <module fileurl="file://$PROJECT_DIR$/145-二叉树的后序非递归遍历/145-二叉树的后序非递归遍历.iml" filepath="$PROJECT_DIR$/145-二叉树的后序非递归遍历/145-二叉树的后序非递归遍历.iml" />
+      <module fileurl="file://$PROJECT_DIR$/151-翻转字符串里的单词/151-翻转字符串里的单词.iml" filepath="$PROJECT_DIR$/151-翻转字符串里的单词/151-翻转字符串里的单词.iml" />
       <module fileurl="file://$PROJECT_DIR$/153-旋转数组的最小值/153-旋转数组的最小值.iml" filepath="$PROJECT_DIR$/153-旋转数组的最小值/153-旋转数组的最小值.iml" />
       <module fileurl="file://$PROJECT_DIR$/155-最小栈/155-最小栈.iml" filepath="$PROJECT_DIR$/155-最小栈/155-最小栈.iml" />
       <module fileurl="file://$PROJECT_DIR$/160-相交链表/160-相交链表.iml" filepath="$PROJECT_DIR$/160-相交链表/160-相交链表.iml" />
@@ -39,8 +41,11 @@
       <module fileurl="file://$PROJECT_DIR$/19-删除链表倒数第N个结点/19-删除链表倒数第N个结点.iml" filepath="$PROJECT_DIR$/19-删除链表倒数第N个结点/19-删除链表倒数第N个结点.iml" />
       <module fileurl="file://$PROJECT_DIR$/190-颠倒二进制位/190-颠倒二进制位.iml" filepath="$PROJECT_DIR$/190-颠倒二进制位/190-颠倒二进制位.iml" />
       <module fileurl="file://$PROJECT_DIR$/198-打家劫舍/198-打家劫舍.iml" filepath="$PROJECT_DIR$/198-打家劫舍/198-打家劫舍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/199-二叉树的右视图/199-二叉树的右视图.iml" filepath="$PROJECT_DIR$/199-二叉树的右视图/199-二叉树的右视图.iml" />
       <module fileurl="file://$PROJECT_DIR$/20-有效的括号/20-有效的括号.iml" filepath="$PROJECT_DIR$/20-有效的括号/20-有效的括号.iml" />
       <module fileurl="file://$PROJECT_DIR$/200-岛屿数量/200-岛屿数量.iml" filepath="$PROJECT_DIR$/200-岛屿数量/200-岛屿数量.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20200408华为笔试第一题/20200408华为笔试第一题.iml" filepath="$PROJECT_DIR$/20200408华为笔试第一题/20200408华为笔试第一题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20200408华为笔试第二题/20200408华为笔试第二题.iml" filepath="$PROJECT_DIR$/20200408华为笔试第二题/20200408华为笔试第二题.iml" />
       <module fileurl="file://$PROJECT_DIR$/204-计数质数/204-计数质数.iml" filepath="$PROJECT_DIR$/204-计数质数/204-计数质数.iml" />
       <module fileurl="file://$PROJECT_DIR$/205-同构字符串/205-同构字符串.iml" filepath="$PROJECT_DIR$/205-同构字符串/205-同构字符串.iml" />
       <module fileurl="file://$PROJECT_DIR$/206-反转链表/206-反转链表.iml" filepath="$PROJECT_DIR$/206-反转链表/206-反转链表.iml" />
@@ -74,6 +79,7 @@
       <module fileurl="file://$PROJECT_DIR$/300-最长上升子序列/300-最长上升子序列.iml" filepath="$PROJECT_DIR$/300-最长上升子序列/300-最长上升子序列.iml" />
       <module fileurl="file://$PROJECT_DIR$/303-区域和检索-数组不可变/303-区域和检索-数组不可变.iml" filepath="$PROJECT_DIR$/303-区域和检索-数组不可变/303-区域和检索-数组不可变.iml" />
       <module fileurl="file://$PROJECT_DIR$/318-最大单词长度乘积/318-最大单词长度乘积.iml" filepath="$PROJECT_DIR$/318-最大单词长度乘积/318-最大单词长度乘积.iml" />
+      <module fileurl="file://$PROJECT_DIR$/319-灯泡开关/319-灯泡开关.iml" filepath="$PROJECT_DIR$/319-灯泡开关/319-灯泡开关.iml" />
       <module fileurl="file://$PROJECT_DIR$/322-零钱兑换/322-零钱兑换.iml" filepath="$PROJECT_DIR$/322-零钱兑换/322-零钱兑换.iml" />
       <module fileurl="file://$PROJECT_DIR$/326-3的幂/326-3的幂.iml" filepath="$PROJECT_DIR$/326-3的幂/326-3的幂.iml" />
       <module fileurl="file://$PROJECT_DIR$/328-奇偶链表/328-奇偶链表.iml" filepath="$PROJECT_DIR$/328-奇偶链表/328-奇偶链表.iml" />
@@ -89,6 +95,7 @@
       <module fileurl="file://$PROJECT_DIR$/376-最长摆动序列/376-最长摆动序列.iml" filepath="$PROJECT_DIR$/376-最长摆动序列/376-最长摆动序列.iml" />
       <module fileurl="file://$PROJECT_DIR$/377-组合总数4/377-组合总数4.iml" filepath="$PROJECT_DIR$/377-组合总数4/377-组合总数4.iml" />
       <module fileurl="file://$PROJECT_DIR$/378-有序矩阵中第K小元素/378-有序矩阵中第K小元素.iml" filepath="$PROJECT_DIR$/378-有序矩阵中第K小元素/378-有序矩阵中第K小元素.iml" />
+      <module fileurl="file://$PROJECT_DIR$/386-字典序排数/386-字典序排数.iml" filepath="$PROJECT_DIR$/386-字典序排数/386-字典序排数.iml" />
       <module fileurl="file://$PROJECT_DIR$/39-组合总和/39-组合总和.iml" filepath="$PROJECT_DIR$/39-组合总和/39-组合总和.iml" />
       <module fileurl="file://$PROJECT_DIR$/392-判断子序列/392-判断子序列.iml" filepath="$PROJECT_DIR$/392-判断子序列/392-判断子序列.iml" />
       <module fileurl="file://$PROJECT_DIR$/40-组合求和2/40-组合求和2.iml" filepath="$PROJECT_DIR$/40-组合求和2/40-组合求和2.iml" />
@@ -102,6 +109,7 @@
       <module fileurl="file://$PROJECT_DIR$/426-将二叉搜索树转化为排序的双向链表/426-将二叉搜索树转化为排序的双向链表.iml" filepath="$PROJECT_DIR$/426-将二叉搜索树转化为排序的双向链表/426-将二叉搜索树转化为排序的双向链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/435-无重叠区间/435-无重叠区间.iml" filepath="$PROJECT_DIR$/435-无重叠区间/435-无重叠区间.iml" />
       <module fileurl="file://$PROJECT_DIR$/437-路径总和3/437-路径总和3.iml" filepath="$PROJECT_DIR$/437-路径总和3/437-路径总和3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/440-字典序的第K小数字/440-字典序的第K小数字.iml" filepath="$PROJECT_DIR$/440-字典序的第K小数字/440-字典序的第K小数字.iml" />
       <module fileurl="file://$PROJECT_DIR$/445-两数相加/445-两数相加.iml" filepath="$PROJECT_DIR$/445-两数相加/445-两数相加.iml" />
       <module fileurl="file://$PROJECT_DIR$/451-按照字符出现频率排序/451-按照字符出现频率排序.iml" filepath="$PROJECT_DIR$/451-按照字符出现频率排序/451-按照字符出现频率排序.iml" />
       <module fileurl="file://$PROJECT_DIR$/452-用最少数量的箭引爆气球/452-用最少数量的箭引爆气球.iml" filepath="$PROJECT_DIR$/452-用最少数量的箭引爆气球/452-用最少数量的箭引爆气球.iml" />
@@ -126,6 +134,7 @@
       <module fileurl="file://$PROJECT_DIR$/53-最大子序和/53-最大子序和.iml" filepath="$PROJECT_DIR$/53-最大子序和/53-最大子序和.iml" />
       <module fileurl="file://$PROJECT_DIR$/530-二叉搜索树的最小绝对差/530-二叉搜索树的最小绝对差.iml" filepath="$PROJECT_DIR$/530-二叉搜索树的最小绝对差/530-二叉搜索树的最小绝对差.iml" />
       <module fileurl="file://$PROJECT_DIR$/538-把二叉搜索树变成累加树/538-把二叉搜索树变成累加树.iml" filepath="$PROJECT_DIR$/538-把二叉搜索树变成累加树/538-把二叉搜索树变成累加树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/542-01矩阵/542-01矩阵.iml" filepath="$PROJECT_DIR$/542-01矩阵/542-01矩阵.iml" />
       <module fileurl="file://$PROJECT_DIR$/543-二叉树的直径/543-二叉树的直径.iml" filepath="$PROJECT_DIR$/543-二叉树的直径/543-二叉树的直径.iml" />
       <module fileurl="file://$PROJECT_DIR$/547-朋友圈/547-朋友圈.iml" filepath="$PROJECT_DIR$/547-朋友圈/547-朋友圈.iml" />
       <module fileurl="file://$PROJECT_DIR$/565-数组嵌套/565-数组嵌套.iml" filepath="$PROJECT_DIR$/565-数组嵌套/565-数组嵌套.iml" />
@@ -183,6 +192,7 @@
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题 08.12. 八皇后/面试题 08.12. 八皇后.iml" filepath="$PROJECT_DIR$/面试题 08.12. 八皇后/面试题 08.12. 八皇后.iml" />
+      <module fileurl="file://$PROJECT_DIR$/面试题06. 从尾到头打印链表/面试题06. 从尾到头打印链表.iml" filepath="$PROJECT_DIR$/面试题06. 从尾到头打印链表/面试题06. 从尾到头打印链表.iml" />
     </modules>
   </component>
 </project>
