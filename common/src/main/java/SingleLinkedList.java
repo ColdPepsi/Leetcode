@@ -17,11 +17,13 @@ public class SingleLinkedList {
             System.out.println("单链表为空");
             return;
         }
-        StringBuilder res = new StringBuilder("[");
+        StringBuilder res = new StringBuilder();
         for (ListNode p = head; p != null; p = p.next) {
-            res.append(p.val).append(",");
+            res.append(p.val);
+            if (p.next != null) {
+                res.append("->");
+            }
         }
-        res.setCharAt(res.length() - 1, ']');
         System.out.println(res);
     }
 
@@ -39,6 +41,8 @@ public class SingleLinkedList {
             rear.next = new ListNode(val);
             rear = rear.next;
         }
-        return dummyHead;
+        ListNode head = dummyHead.next;
+        dummyHead.next = null;
+        return head;
     }
 }
