@@ -54,6 +54,23 @@
 
     <modules>
         <module>common</module>
+        <module>210-课程表 II</module>
+        <module>684-冗余连接</module>
+        <module>面试题 04.01. 节点间通路</module>
+        <module>1232-缀点成线</module>
+        <module>1277-统计全为 1 的正方形子矩阵</module>
+        <module>20200421WeBank笔试第二题</module>
+        <module>20200421WeBank笔试第一题</module>
+        <module>20200421WeBank笔试第三题</module>
+        <module>697-数组的度</module>
+        <module>617-合并二叉树</module>
+        <module>435-无重叠区间</module>
+        <module>342-4的幂</module>
+        <module>322-零钱兑换</module>
+        <module>226-翻转二叉树</module>
+        <module>785-判断二分图</module>
+        <module>997-找到小镇的法官</module>
+        <module>983-最低票价</module>
     </modules>
 
 
