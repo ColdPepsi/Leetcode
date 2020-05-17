@@ -250,7 +250,18 @@
         <option value="$PROJECT_DIR$/1232-缀点成线/pom.xml" />
         <option value="$PROJECT_DIR$/50-Pow(x, n)/pom.xml" />
         <option value="$PROJECT_DIR$/Singleton-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/面试题 16.25. LRU缓存/pom.xml" />
+        <option value="$PROJECT_DIR$/146-LRU缓存机制/pom.xml" />
+        <option value="$PROJECT_DIR$/面试题 04.01. 节点间通路/pom.xml" />
+        <option value="$PROJECT_DIR$/207-课程表/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/1111/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />

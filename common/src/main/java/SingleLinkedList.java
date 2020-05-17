@@ -28,11 +28,11 @@ public class SingleLinkedList {
     }
 
     /**
-     * @param
-     * @return entity.ListNode 返回链表头结点（哑结点）
-     * @description 生成一个单链表
+     * @param vals 数组
+     * @return entity.ListNode
+     * @description 把数组转化成单链表，返回头结点
      * @author WuBiao
-     * @date 2020/3/4 19:30
+     * @date 2020/5/16 14:09
      */
     public static ListNode generateAList(int[] vals) {
         ListNode dummyHead = new ListNode(-1);

@@ -71,6 +71,32 @@
         <module>785-判断二分图</module>
         <module>997-找到小镇的法官</module>
         <module>983-最低票价</module>
+        <module>560-和为K的子数组</module>
+        <module>841-钥匙和房间</module>
+        <module>1306-跳跃游戏 III</module>
+        <module>21-合并有序链表</module>
+        <module>面试题 08.12. 八皇后</module>
+        <module>面试题 04.05. 合法二叉搜索树</module>
+        <module>面试题32 - I. 从上到下打印二叉树</module>
+        <module>面试题 16.25. LRU缓存</module>
+        <module>面试题06. 从尾到头打印链表</module>
+        <module>面试题 02.05. 链表求和</module>
+        <module>面试题32 - II. 从上到下打印二叉树 II</module>
+        <module>Singleton-Pattern</module>
+        <module>20200408华为笔试第一题</module>
+        <module>20200408华为笔试第二题</module>
+        <module>1325-删除给定值的叶子节点</module>
+        <module>671-二叉树中第二小的结点</module>
+        <module>693-交替位二进制数</module>
+        <module>565-数组嵌套</module>
+        <module>461-汉明距离</module>
+        <module>404-左叶子之和</module>
+        <module>622-设计循环队列</module>
+        <module>25-K 个一组翻转链表</module>
+        <module>92-反转链表 II</module>
+        <module>1115-交替打印FooBar</module>
+        <module>1116-打印零与奇偶数</module>
+        <module>1423-可获得的最大点数</module>
     </modules>
 
 
