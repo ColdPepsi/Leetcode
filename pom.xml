@@ -97,6 +97,29 @@
         <module>1115-交替打印FooBar</module>
         <module>1116-打印零与奇偶数</module>
         <module>1423-可获得的最大点数</module>
+        <module>面试题59 - II. 队列的最大值</module>
+        <module>152-乘积最大子数组</module>
+        <module>22-括号生成</module>
+        <module>72-编辑距离</module>
+        <module>88-合并两个有序数组</module>
+        <module>95-不同的二叉搜索树 II</module>
+        <module>128-最长连续序列</module>
+        <module>155-最小栈</module>
+        <module>205-同构字符串</module>
+        <module>221-最大正方形</module>
+        <module>257-二叉树的所有路径</module>
+        <module>300-最长上升子序列</module>
+        <module>392-判断子序列</module>
+        <module>445-两数相加</module>
+        <module>面试题 04.03. 特定深度节点链表</module>
+        <module>547-朋友圈</module>
+        <module>476-数字的补数</module>
+        <module>572-另一棵树的子树</module>
+        <module>406-根据身高重建队列</module>
+        <module>529-扫雷游戏</module>
+        <module>面试题 02.08. 环路检测</module>
+        <module>1002-查找常用字符</module>
+        <module>1424-对角线遍历 II</module>
     </modules>
 
 
