@@ -120,6 +120,35 @@
         <module>面试题 02.08. 环路检测</module>
         <module>1002-查找常用字符</module>
         <module>1424-对角线遍历 II</module>
+        <module>974-和可被 K 整除的子数组</module>
+        <module>1-两数之和</module>
+        <module>18-四数之和</module>
+        <module>36-有效的数独</module>
+        <module>46-全排列</module>
+        <module>56-合并区间</module>
+        <module>78-子集</module>
+        <module>96-不同的二叉搜索树</module>
+        <module>110-平衡二叉树</module>
+        <module>136-数组中唯一不重复的数</module>
+        <module>394-字符串解码</module>
+        <module>104-二叉树最大深度</module>
+        <module>112-路径总和</module>
+        <module>143-重排链表</module>
+        <module>160-相交链表</module>
+        <module>637-二叉树的层平均值</module>
+        <module>801-使序列递增的最小交换次数</module>
+        <module>1143-最长公共子序列</module>
+        <module>687-最长同值路径</module>
+        <module>725-分隔链表</module>
+        <module>1114-按序打印</module>
+        <module>650-2键键盘复制粘贴字符</module>
+        <module>646-最长数对链</module>
+        <module>633-平方数之和</module>
+        <module>590-N叉树的后序遍历</module>
+        <module>485-最大连续1的个数</module>
+        <module>583-两个字符串的删除操作</module>
+        <module>679-24点游戏</module>
+        <module>面试题29. 顺时针打印矩阵</module>
     </modules>
 
 

@@ -128,6 +128,7 @@
       <module fileurl="file://$PROJECT_DIR$/386-字典序排数/386-字典序排数.iml" filepath="$PROJECT_DIR$/386-字典序排数/386-字典序排数.iml" />
       <module fileurl="file://$PROJECT_DIR$/39-组合总和/39-组合总和.iml" filepath="$PROJECT_DIR$/39-组合总和/39-组合总和.iml" />
       <module fileurl="file://$PROJECT_DIR$/392-判断子序列/392-判断子序列.iml" filepath="$PROJECT_DIR$/392-判断子序列/392-判断子序列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/394-字符串解码/394-字符串解码.iml" filepath="$PROJECT_DIR$/394-字符串解码/394-字符串解码.iml" />
       <module fileurl="file://$PROJECT_DIR$/40-组合求和2/40-组合求和2.iml" filepath="$PROJECT_DIR$/40-组合求和2/40-组合求和2.iml" />
       <module fileurl="file://$PROJECT_DIR$/404-左叶子之和/404-左叶子之和.iml" filepath="$PROJECT_DIR$/404-左叶子之和/404-左叶子之和.iml" />
       <module fileurl="file://$PROJECT_DIR$/406-根据身高重建队列/406-根据身高重建队列.iml" filepath="$PROJECT_DIR$/406-根据身高重建队列/406-根据身高重建队列.iml" />
@@ -240,6 +241,7 @@
       <module fileurl="file://$PROJECT_DIR$/94-二叉树中序非递归遍历/94-二叉树中序非递归遍历.iml" filepath="$PROJECT_DIR$/94-二叉树中序非递归遍历/94-二叉树中序非递归遍历.iml" />
       <module fileurl="file://$PROJECT_DIR$/95-不同的二叉搜索树 II/95-不同的二叉搜索树 II.iml" filepath="$PROJECT_DIR$/95-不同的二叉搜索树 II/95-不同的二叉搜索树 II.iml" />
       <module fileurl="file://$PROJECT_DIR$/96-不同的二叉搜索树/96-不同的二叉搜索树.iml" filepath="$PROJECT_DIR$/96-不同的二叉搜索树/96-不同的二叉搜索树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/974-和可被 K 整除的子数组/974-和可被 K 整除的子数组.iml" filepath="$PROJECT_DIR$/974-和可被 K 整除的子数组/974-和可被 K 整除的子数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/98-验证二叉搜索树/98-验证二叉搜索树.iml" filepath="$PROJECT_DIR$/98-验证二叉搜索树/98-验证二叉搜索树.iml" />
       <module fileurl="file://$PROJECT_DIR$/983-最低票价/983-最低票价.iml" filepath="$PROJECT_DIR$/983-最低票价/983-最低票价.iml" />
       <module fileurl="file://$PROJECT_DIR$/997-找到小镇的法官/997-找到小镇的法官.iml" filepath="$PROJECT_DIR$/997-找到小镇的法官/997-找到小镇的法官.iml" />
@@ -254,6 +256,7 @@
       <module fileurl="file://$PROJECT_DIR$/面试题 08.12. 八皇后/面试题 08.12. 八皇后.iml" filepath="$PROJECT_DIR$/面试题 08.12. 八皇后/面试题 08.12. 八皇后.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题 16.25. LRU缓存/面试题 16.25. LRU缓存.iml" filepath="$PROJECT_DIR$/面试题 16.25. LRU缓存/面试题 16.25. LRU缓存.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题06. 从尾到头打印链表/面试题06. 从尾到头打印链表.iml" filepath="$PROJECT_DIR$/面试题06. 从尾到头打印链表/面试题06. 从尾到头打印链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/面试题29. 顺时针打印矩阵/面试题29. 顺时针打印矩阵.iml" filepath="$PROJECT_DIR$/面试题29. 顺时针打印矩阵/面试题29. 顺时针打印矩阵.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题32 - I. 从上到下打印二叉树/面试题32 - I. 从上到下打印二叉树.iml" filepath="$PROJECT_DIR$/面试题32 - I. 从上到下打印二叉树/面试题32 - I. 从上到下打印二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题32 - II. 从上到下打印二叉树 II/面试题32 - II. 从上到下打印二叉树 II.iml" filepath="$PROJECT_DIR$/面试题32 - II. 从上到下打印二叉树 II/面试题32 - II. 从上到下打印二叉树 II.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题59 - II. 队列的最大值/面试题59 - II. 队列的最大值.iml" filepath="$PROJECT_DIR$/面试题59 - II. 队列的最大值/面试题59 - II. 队列的最大值.iml" />
