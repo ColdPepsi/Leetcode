@@ -9,6 +9,15 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>5-最长回文子串</artifactId>
+    <artifactId>951-翻转等价二叉树</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>cn.ustc.wubiao</groupId>
+            <artifactId>common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 
 </project>
