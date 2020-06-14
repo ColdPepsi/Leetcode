@@ -151,6 +151,33 @@
         <module>面试题29. 顺时针打印矩阵</module>
         <module>5-最长回文子串</module>
         <module>951-翻转等价二叉树</module>
+        <module>100-相同的树</module>
+        <module>122-买卖股票的最大收益 II</module>
+        <module>131-分割回文串</module>
+        <module>53-最大子序和</module>
+        <module>77-组合</module>
+        <module>153-旋转数组的最小值</module>
+        <module>172-阶乘后的零</module>
+        <module>216-组合总和3</module>
+        <module>50-Pow(x, n)</module>
+        <module>645-错误的集合</module>
+        <module>667-优美的排列2</module>
+        <module>695-岛屿的最大面积</module>
+        <module>763-划分字母区间</module>
+        <module>932-漂亮数组</module>
+        <module>319-灯泡开关</module>
+        <module>236-二叉树的最近公共祖先</module>
+        <module>204-计数质数</module>
+        <module>138-复制带随机指针的链表</module>
+        <module>107-二叉树的层次遍历 II</module>
+        <module>151-翻转字符串里的单词</module>
+        <module>67-二进制求和</module>
+        <module>20-有效的括号</module>
+        <module>1300-转变数组后最接近目标值的数组和</module>
+        <module>面试题 16.19. 水域大小</module>
+        <module>802-找到最终的安全状态</module>
+        <module>面试题 16.20. T9键盘</module>
+        <module>面试题46. 把数字翻译成字符串</module>
     </modules>
 
 

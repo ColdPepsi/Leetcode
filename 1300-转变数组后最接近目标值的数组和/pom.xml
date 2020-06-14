@@ -9,14 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>236-二叉树的最近公共祖先</artifactId>
+    <artifactId>1300-转变数组后最接近目标值的数组和</artifactId>
 
-    <dependencies>
-        <dependency>
-            <groupId>cn.ustc.wubiao</groupId>
-            <artifactId>common</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
 
 </project>
