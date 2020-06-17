@@ -178,6 +178,35 @@
         <module>802-找到最终的安全状态</module>
         <module>面试题 16.20. T9键盘</module>
         <module>面试题46. 把数字翻译成字符串</module>
+        <module>326-3的幂</module>
+        <module>409-构造最长回文串</module>
+        <module>462-最少移动次数使数组元素相等 II</module>
+        <module>101-对称二叉树</module>
+        <module>167-两数之和2-输入有序数组</module>
+        <module>413-等差数列划分</module>
+        <module>416-分割等和子集</module>
+        <module>605-种花问题</module>
+        <module>662-二叉树最大宽度</module>
+        <module>594-最长和谐子序列</module>
+        <module>665-非递减序列</module>
+        <module>744-寻找比目标大的最小字母</module>
+        <module>52-N皇后 II</module>
+        <module>451-按照字符出现频率排序</module>
+        <module>628-三个数的最大乘积</module>
+        <module>680-验证回文字符串 Ⅱ</module>
+        <module>8-字符串转换整数 (atoi)</module>
+        <module>15-三数之和</module>
+        <module>769-最多能完成排序的块</module>
+        <module>669-修剪二叉搜索树</module>
+        <module>530-二叉搜索树的最小绝对差</module>
+        <module>501-二叉搜索树中的众数</module>
+        <module>14-最长公共前缀</module>
+        <module>面试题 08.08. 有重复字符串的排列组合</module>
+        <module>1254-统计封闭岛屿的数目</module>
+        <module>1219-黄金矿工</module>
+        <module>743-网络延迟时间</module>
+        <module>179-最大数</module>
+        <module>150-逆波兰表达式求值</module>
     </modules>
 
 
