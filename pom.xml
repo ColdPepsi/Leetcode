@@ -207,6 +207,48 @@
         <module>743-网络延迟时间</module>
         <module>179-最大数</module>
         <module>150-逆波兰表达式求值</module>
+        <module>剑指 Offer 64. 求1+2+…+n</module>
+        <module>113-路径总和 II</module>
+        <module>剑指 Offer 32 - III. 从上到下打印二叉树 III</module>
+        <module>125-验证回文串</module>
+        <module>70-爬楼梯</module>
+        <module>513-找树左下角的值</module>
+        <module>516-最长回文子序列</module>
+        <module>503-下一个更大的元素2</module>
+        <module>474-01字符构成的最多的字符串</module>
+        <module>417-太平洋大西洋水流问题</module>
+        <module>440-字典序的第K小数字</module>
+        <module>426-将二叉搜索树转化为排序的双向链表</module>
+        <module>371-两整数之和</module>
+        <module>378-有序矩阵中第K小元素</module>
+        <module>343-整数拆分</module>
+        <module>35-搜索插入位置</module>
+        <module>37-解数独</module>
+        <module>34-在排序数组中查找元素的第一个和最后一个位置</module>
+        <module>232-用栈实现队列</module>
+        <module>24-两两交换链表中的结点</module>
+        <module>260-只出现一次的数字 III</module>
+        <module>278-第一个错误的版本</module>
+        <module>318-最大单词长度乘积</module>
+        <module>337-打家劫舍3间隔遍历</module>
+        <module>105-从前序与中序遍历序列构造二叉树</module>
+        <module>268-缺失数字</module>
+        <module>289-生命游戏</module>
+        <module>328-奇偶链表</module>
+        <module>377-组合总数4</module>
+        <module>415-字符串相加</module>
+        <module>51-N皇后</module>
+        <module>589-N叉树的前序遍历</module>
+        <module>75-颜色分类</module>
+        <module>94-二叉树中序非递归遍历</module>
+        <module>518-零钱兑换2</module>
+        <module>647-回文子串的个数</module>
+        <module>692-前K个高频单词</module>
+        <module>766-托普利茨矩阵</module>
+        <module>93-复原IP地址</module>
+        <module>98-验证二叉搜索树</module>
+        <module>524-通过删除字母匹配到字典里最长单词</module>
+        <module>504-七进制数</module>
     </modules>
 
 
