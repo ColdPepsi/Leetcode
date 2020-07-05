@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/1002-查找常用字符/1002-查找常用字符.iml" filepath="$PROJECT_DIR$/1002-查找常用字符/1002-查找常用字符.iml" />
       <module fileurl="file://$PROJECT_DIR$/101-对称二叉树/101-对称二叉树.iml" filepath="$PROJECT_DIR$/101-对称二叉树/101-对称二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/102-二叉树的层次遍历/102-二叉树的层次遍历.iml" filepath="$PROJECT_DIR$/102-二叉树的层次遍历/102-二叉树的层次遍历.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1020-飞地的数量/1020-飞地的数量.iml" filepath="$PROJECT_DIR$/1020-飞地的数量/1020-飞地的数量.iml" />
       <module fileurl="file://$PROJECT_DIR$/1026-节点与其祖先之间的最大差值/1026-节点与其祖先之间的最大差值.iml" filepath="$PROJECT_DIR$/1026-节点与其祖先之间的最大差值/1026-节点与其祖先之间的最大差值.iml" />
       <module fileurl="file://$PROJECT_DIR$/103-二叉树的锯齿形层次遍历/103-二叉树的锯齿形层次遍历.iml" filepath="$PROJECT_DIR$/103-二叉树的锯齿形层次遍历/103-二叉树的锯齿形层次遍历.iml" />
       <module fileurl="file://$PROJECT_DIR$/104-二叉树最大深度/104-二叉树最大深度.iml" filepath="$PROJECT_DIR$/104-二叉树最大深度/104-二叉树最大深度.iml" />
@@ -26,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/113-路径总和 II/113-路径总和 II.iml" filepath="$PROJECT_DIR$/113-路径总和 II/113-路径总和 II.iml" />
       <module fileurl="file://$PROJECT_DIR$/114-二叉树展开为链表/114-二叉树展开为链表.iml" filepath="$PROJECT_DIR$/114-二叉树展开为链表/114-二叉树展开为链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/1143-最长公共子序列/1143-最长公共子序列.iml" filepath="$PROJECT_DIR$/1143-最长公共子序列/1143-最长公共子序列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1162-地图分析/1162-地图分析.iml" filepath="$PROJECT_DIR$/1162-地图分析/1162-地图分析.iml" />
       <module fileurl="file://$PROJECT_DIR$/121-买卖股票的最佳时机/121-买卖股票的最佳时机.iml" filepath="$PROJECT_DIR$/121-买卖股票的最佳时机/121-买卖股票的最佳时机.iml" />
       <module fileurl="file://$PROJECT_DIR$/1219-黄金矿工/1219-黄金矿工.iml" filepath="$PROJECT_DIR$/1219-黄金矿工/1219-黄金矿工.iml" />
       <module fileurl="file://$PROJECT_DIR$/122-买卖股票的最大收益 II/122-买卖股票的最大收益 II.iml" filepath="$PROJECT_DIR$/122-买卖股票的最大收益 II/122-买卖股票的最大收益 II.iml" />
@@ -223,6 +225,7 @@
       <module fileurl="file://$PROJECT_DIR$/696-计数二进制字串/696-计数二进制字串.iml" filepath="$PROJECT_DIR$/696-计数二进制字串/696-计数二进制字串.iml" />
       <module fileurl="file://$PROJECT_DIR$/697-数组的度/697-数组的度.iml" filepath="$PROJECT_DIR$/697-数组的度/697-数组的度.iml" />
       <module fileurl="file://$PROJECT_DIR$/70-爬楼梯/70-爬楼梯.iml" filepath="$PROJECT_DIR$/70-爬楼梯/70-爬楼梯.iml" />
+      <module fileurl="file://$PROJECT_DIR$/718-最长重复子数组/718-最长重复子数组.iml" filepath="$PROJECT_DIR$/718-最长重复子数组/718-最长重复子数组.iml" />
       <module fileurl="file://$PROJECT_DIR$/72-编辑距离/72-编辑距离.iml" filepath="$PROJECT_DIR$/72-编辑距离/72-编辑距离.iml" />
       <module fileurl="file://$PROJECT_DIR$/725-分隔链表/725-分隔链表.iml" filepath="$PROJECT_DIR$/725-分隔链表/725-分隔链表.iml" />
       <module fileurl="file://$PROJECT_DIR$/739-每日温度/739-每日温度.iml" filepath="$PROJECT_DIR$/739-每日温度/739-每日温度.iml" />

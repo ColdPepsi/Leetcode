@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>42-接雨水</artifactId>
+    <artifactId>718-最长重复子数组</artifactId>
 
 
 </project>
