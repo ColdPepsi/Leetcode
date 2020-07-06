@@ -317,6 +317,24 @@
         <module>303-区域和检索-数组不可变</module>
         <module>347-前K个高频元素</module>
         <module>127-单词接龙</module>
+        <module>367-有效的完全平方数</module>
+        <module>376-最长摆动序列</module>
+        <module>386-字典序排数</module>
+        <module>39-组合总和</module>
+        <module>429-N叉树的层序遍历</module>
+        <module>437-路径总和3</module>
+        <module>455-分发饼干</module>
+        <module>494-目标和</module>
+        <module>538-把二叉搜索树变成累加树</module>
+        <module>542-01矩阵</module>
+        <module>543-二叉树的直径</module>
+        <module>69-x的平方根</module>
+        <module>696-计数二进制字串</module>
+        <module>90-子集2</module>
+        <module>91-解码方法-分割整数构成的字母字符串</module>
+        <module>26-删除排序数组中的重复项</module>
+        <module>面试题 02.04. 分割链表</module>
+        <module>707-设计链表</module>
     </modules>
 
 

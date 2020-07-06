@@ -249,12 +249,6 @@
         <option value="$PROJECT_DIR$/242-有效的字母异位词/pom.xml" />
       </list>
     </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/1111/pom.xml" />
-        <option value="$PROJECT_DIR$/test/pom.xml" />
-      </set>
-    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
