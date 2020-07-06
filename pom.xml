@@ -284,6 +284,39 @@
         <module>718-最长重复子数组</module>
         <module>1162-地图分析</module>
         <module>1020-飞地的数量</module>
+        <module>63-不同路径 II</module>
+        <module>106-从中序与后序遍历序列构造二叉树</module>
+        <module>108-将有序数组转化为平衡二叉树</module>
+        <module>109-将有序的链表转换为平衡的二叉搜索树</module>
+        <module>1091-二进制矩阵中的最短路径</module>
+        <module>11-盛最多水的容器</module>
+        <module>111-二叉树最小深度</module>
+        <module>114-二叉树展开为链表</module>
+        <module>121-买卖股票的最佳时机</module>
+        <module>1226-哲学家进餐</module>
+        <module>129-求根到叶子节点数字之和</module>
+        <module>1296-划分数组为连续数字的集合</module>
+        <module>139-字符串按单词列表分割</module>
+        <module>169-多数元素</module>
+        <module>168-Excel列表名称</module>
+        <module>200-岛屿数量</module>
+        <module>198-打家劫舍</module>
+        <module>190-颠倒二进制位</module>
+        <module>19-删除链表倒数第N个结点</module>
+        <module>207-课程表</module>
+        <module>213-打家劫舍2</module>
+        <module>217-存在重复元素</module>
+        <module>225-用队列模拟栈</module>
+        <module>231-2的幂</module>
+        <module>234-回文链表</module>
+        <module>238-除自身以外数组的乘积</module>
+        <module>240-搜索二维矩阵2</module>
+        <module>242-有效的字母异位词</module>
+        <module>23-合并K个排序链表</module>
+        <module>283-移动零</module>
+        <module>303-区域和检索-数组不可变</module>
+        <module>347-前K个高频元素</module>
+        <module>127-单词接龙</module>
     </modules>
 
 

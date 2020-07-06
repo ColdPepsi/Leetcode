@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>217-存在重复元素</artifactId>
+    <artifactId>127-单词接龙</artifactId>
 
 
 </project>

@@ -35,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/1232-缀点成线/1232-缀点成线.iml" filepath="$PROJECT_DIR$/1232-缀点成线/1232-缀点成线.iml" />
       <module fileurl="file://$PROJECT_DIR$/125-验证回文串/125-验证回文串.iml" filepath="$PROJECT_DIR$/125-验证回文串/125-验证回文串.iml" />
       <module fileurl="file://$PROJECT_DIR$/1254-统计封闭岛屿的数目/1254-统计封闭岛屿的数目.iml" filepath="$PROJECT_DIR$/1254-统计封闭岛屿的数目/1254-统计封闭岛屿的数目.iml" />
+      <module fileurl="file://$PROJECT_DIR$/127-单词接龙/127-单词接龙.iml" filepath="$PROJECT_DIR$/127-单词接龙/127-单词接龙.iml" />
       <module fileurl="file://$PROJECT_DIR$/1277-统计全为 1 的正方形子矩阵/1277-统计全为 1 的正方形子矩阵.iml" filepath="$PROJECT_DIR$/1277-统计全为 1 的正方形子矩阵/1277-统计全为 1 的正方形子矩阵.iml" />
       <module fileurl="file://$PROJECT_DIR$/128-最长连续序列/128-最长连续序列.iml" filepath="$PROJECT_DIR$/128-最长连续序列/128-最长连续序列.iml" />
       <module fileurl="file://$PROJECT_DIR$/129-求根到叶子节点数字之和/129-求根到叶子节点数字之和.iml" filepath="$PROJECT_DIR$/129-求根到叶子节点数字之和/129-求根到叶子节点数字之和.iml" />
@@ -200,6 +201,7 @@
       <module fileurl="file://$PROJECT_DIR$/62-不同的路径/62-不同的路径.iml" filepath="$PROJECT_DIR$/62-不同的路径/62-不同的路径.iml" />
       <module fileurl="file://$PROJECT_DIR$/622-设计循环队列/622-设计循环队列.iml" filepath="$PROJECT_DIR$/622-设计循环队列/622-设计循环队列.iml" />
       <module fileurl="file://$PROJECT_DIR$/628-三个数的最大乘积/628-三个数的最大乘积.iml" filepath="$PROJECT_DIR$/628-三个数的最大乘积/628-三个数的最大乘积.iml" />
+      <module fileurl="file://$PROJECT_DIR$/63-不同路径 II/63-不同路径 II.iml" filepath="$PROJECT_DIR$/63-不同路径 II/63-不同路径 II.iml" />
       <module fileurl="file://$PROJECT_DIR$/633-平方数之和/633-平方数之和.iml" filepath="$PROJECT_DIR$/633-平方数之和/633-平方数之和.iml" />
       <module fileurl="file://$PROJECT_DIR$/637-二叉树的层平均值/637-二叉树的层平均值.iml" filepath="$PROJECT_DIR$/637-二叉树的层平均值/637-二叉树的层平均值.iml" />
       <module fileurl="file://$PROJECT_DIR$/64-矩阵的最小路径和/64-矩阵的最小路径和.iml" filepath="$PROJECT_DIR$/64-矩阵的最小路径和/64-矩阵的最小路径和.iml" />
@@ -261,7 +263,7 @@
       <module fileurl="file://$PROJECT_DIR$/997-找到小镇的法官/997-找到小镇的法官.iml" filepath="$PROJECT_DIR$/997-找到小镇的法官/997-找到小镇的法官.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton-Pattern/Singleton-Pattern.iml" filepath="$PROJECT_DIR$/Singleton-Pattern/Singleton-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/剑指 Offer 32 - III. 从上到下打印二叉树 III/剑指 Offer 32 - III. 从上到下打印二叉树 III.iml" filepath="$PROJECT_DIR$/剑指 Offer 32 - III. 从上到下打印二叉树 III/剑指 Offer 32 - III. 从上到下打印二叉树 III.iml" />
       <module fileurl="file://$PROJECT_DIR$/剑指 Offer 64. 求1+2+…+n/剑指 Offer 64. 求1+2+…+n.iml" filepath="$PROJECT_DIR$/剑指 Offer 64. 求1+2+…+n/剑指 Offer 64. 求1+2+…+n.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题 02.05. 链表求和/面试题 02.05. 链表求和.iml" filepath="$PROJECT_DIR$/面试题 02.05. 链表求和/面试题 02.05. 链表求和.iml" />
