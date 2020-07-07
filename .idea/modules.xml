@@ -142,6 +142,7 @@
       <module fileurl="file://$PROJECT_DIR$/392-判断子序列/392-判断子序列.iml" filepath="$PROJECT_DIR$/392-判断子序列/392-判断子序列.iml" />
       <module fileurl="file://$PROJECT_DIR$/394-字符串解码/394-字符串解码.iml" filepath="$PROJECT_DIR$/394-字符串解码/394-字符串解码.iml" />
       <module fileurl="file://$PROJECT_DIR$/40-组合求和2/40-组合求和2.iml" filepath="$PROJECT_DIR$/40-组合求和2/40-组合求和2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/400-第N个数字/400-第N个数字.iml" filepath="$PROJECT_DIR$/400-第N个数字/400-第N个数字.iml" />
       <module fileurl="file://$PROJECT_DIR$/404-左叶子之和/404-左叶子之和.iml" filepath="$PROJECT_DIR$/404-左叶子之和/404-左叶子之和.iml" />
       <module fileurl="file://$PROJECT_DIR$/406-根据身高重建队列/406-根据身高重建队列.iml" filepath="$PROJECT_DIR$/406-根据身高重建队列/406-根据身高重建队列.iml" />
       <module fileurl="file://$PROJECT_DIR$/409-构造最长回文串/409-构造最长回文串.iml" filepath="$PROJECT_DIR$/409-构造最长回文串/409-构造最长回文串.iml" />
@@ -172,6 +173,7 @@
       <module fileurl="file://$PROJECT_DIR$/501-二叉搜索树中的众数/501-二叉搜索树中的众数.iml" filepath="$PROJECT_DIR$/501-二叉搜索树中的众数/501-二叉搜索树中的众数.iml" />
       <module fileurl="file://$PROJECT_DIR$/503-下一个更大的元素2/503-下一个更大的元素2.iml" filepath="$PROJECT_DIR$/503-下一个更大的元素2/503-下一个更大的元素2.iml" />
       <module fileurl="file://$PROJECT_DIR$/504-七进制数/504-七进制数.iml" filepath="$PROJECT_DIR$/504-七进制数/504-七进制数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/508-出现次数最多的子树元素和/508-出现次数最多的子树元素和.iml" filepath="$PROJECT_DIR$/508-出现次数最多的子树元素和/508-出现次数最多的子树元素和.iml" />
       <module fileurl="file://$PROJECT_DIR$/51-N皇后/51-N皇后.iml" filepath="$PROJECT_DIR$/51-N皇后/51-N皇后.iml" />
       <module fileurl="file://$PROJECT_DIR$/513-找树左下角的值/513-找树左下角的值.iml" filepath="$PROJECT_DIR$/513-找树左下角的值/513-找树左下角的值.iml" />
       <module fileurl="file://$PROJECT_DIR$/515-在每个数行中找最大值/515-在每个数行中找最大值.iml" filepath="$PROJECT_DIR$/515-在每个数行中找最大值/515-在每个数行中找最大值.iml" />
@@ -266,6 +268,7 @@
       <module fileurl="file://$PROJECT_DIR$/Singleton-Pattern/Singleton-Pattern.iml" filepath="$PROJECT_DIR$/Singleton-Pattern/Singleton-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指 Offer 07. 重建二叉树/剑指 Offer 07. 重建二叉树.iml" filepath="$PROJECT_DIR$/剑指 Offer 07. 重建二叉树/剑指 Offer 07. 重建二叉树.iml" />
       <module fileurl="file://$PROJECT_DIR$/剑指 Offer 32 - III. 从上到下打印二叉树 III/剑指 Offer 32 - III. 从上到下打印二叉树 III.iml" filepath="$PROJECT_DIR$/剑指 Offer 32 - III. 从上到下打印二叉树 III/剑指 Offer 32 - III. 从上到下打印二叉树 III.iml" />
       <module fileurl="file://$PROJECT_DIR$/剑指 Offer 64. 求1+2+…+n/剑指 Offer 64. 求1+2+…+n.iml" filepath="$PROJECT_DIR$/剑指 Offer 64. 求1+2+…+n/剑指 Offer 64. 求1+2+…+n.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题 02.04. 分割链表/面试题 02.04. 分割链表.iml" filepath="$PROJECT_DIR$/面试题 02.04. 分割链表/面试题 02.04. 分割链表.iml" />

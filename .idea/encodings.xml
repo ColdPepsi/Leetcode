@@ -143,6 +143,8 @@
     <file url="file://$PROJECT_DIR$/392-判断子序列/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/394-字符串解码/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/40-组合求和2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/400-第N个数字/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/400-第N个数字/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/404-左叶子之和/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/406-根据身高重建队列/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/409-构造最长回文串/src/main/java" charset="UTF-8" />
@@ -173,6 +175,8 @@
     <file url="file://$PROJECT_DIR$/501-二叉搜索树中的众数/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/503-下一个更大的元素2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/504-七进制数/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/508-出现次数最多的子树元素和/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/508-出现次数最多的子树元素和/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/51-N皇后/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/513-找树左下角的值/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/515-在每个数行中找最大值/src/main/java" charset="UTF-8" />
@@ -269,6 +273,8 @@
     <file url="file://$PROJECT_DIR$/Singleton-Pattern/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/src/main/java/entity/ListNode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/剑指 Offer 07. 重建二叉树/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/剑指 Offer 07. 重建二叉树/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 32 - III. 从上到下打印二叉树 III/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 64. 求1+2+…+n/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/面试题 02.04. 分割链表/src/main/java" charset="UTF-8" />

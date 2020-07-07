@@ -335,6 +335,9 @@
         <module>26-删除排序数组中的重复项</module>
         <module>面试题 02.04. 分割链表</module>
         <module>707-设计链表</module>
+        <module>508-出现次数最多的子树元素和</module>
+        <module>剑指 Offer 07. 重建二叉树</module>
+        <module>400-第N个数字</module>
     </modules>
 
 
