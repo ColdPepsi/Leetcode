@@ -341,6 +341,12 @@
         <module>面试题 16.11. 跳水板</module>
         <module>16-最接近的三数之和</module>
         <module>54-螺旋矩阵</module>
+        <module>1392-最长快乐前缀</module>
+        <module>71-简化路径</module>
+        <module>73-矩阵置零</module>
+        <module>1195-交替打印字符串</module>
+        <module>116-填充每个节点的下一个右侧节点指针</module>
+        <module>228-汇总区间</module>
     </modules>
 
 
