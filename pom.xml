@@ -350,6 +350,14 @@
         <module>74-搜索二维矩阵</module>
         <module>面试题 17.08. 马戏团人塔</module>
         <module>阿里2020春季某笔试题</module>
+        <module>350-两个数组的交集 II</module>
+        <module>174-地下城游戏</module>
+        <module>315-计算右侧小于当前元素的个数</module>
+        <module>剑指 Offer 51. 数组中的逆序对</module>
+        <module>120-三角形最小路径和</module>
+        <module>99-恢复二叉搜索树</module>
+        <module>86-分隔链表</module>
+        <module>165-比较版本号</module>
     </modules>
 
 
