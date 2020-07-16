@@ -19,7 +19,7 @@ public class Solution {
         dp[1] = 1;//边界
         for (int i = 2; i <= n; i++) {
             for (int j = 1; j <= i; j++) {//以元素j为根节点
-                dp[i] += dp[j - 1] * dp[i - j];
+                dp[i] += dp[j - 1] * dp[i - j];//左子树有j-1个结点，右子树有i-j个结点
             }
         }
         return dp[n];

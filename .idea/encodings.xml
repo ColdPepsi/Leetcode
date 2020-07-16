@@ -51,6 +51,10 @@
     <file url="file://$PROJECT_DIR$/1306-跳跃游戏 III/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/131-分割回文串/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/1325-删除给定值的叶子节点/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/133-克隆图/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/133-克隆图/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/134-加油站/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/134-加油站/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/136-数组中唯一不重复的数/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/138-复制带随机指针的链表/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/139-字符串按单词列表分割/src/main/java" charset="UTF-8" />
@@ -135,6 +139,8 @@
     <file url="file://$PROJECT_DIR$/289-生命游戏/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/300-最长上升子序列/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/303-区域和检索-数组不可变/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/31-下一个排列/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/31-下一个排列/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/315-计算右侧小于当前元素的个数/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/315-计算右侧小于当前元素的个数/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/318-最大单词长度乘积/src/main/java" charset="UTF-8" />
@@ -221,8 +227,12 @@
     <file url="file://$PROJECT_DIR$/572-另一棵树的子树/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/583-两个字符串的删除操作/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/589-N叉树的前序遍历/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/59-螺旋矩阵 II/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/59-螺旋矩阵 II/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/590-N叉树的后序遍历/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/594-最长和谐子序列/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/60-第k个排列/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/60-第k个排列/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/605-种花问题/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/61-旋转链表/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/617-合并二叉树/src/main/java" charset="UTF-8" />

@@ -358,6 +358,11 @@
         <module>99-恢复二叉搜索树</module>
         <module>86-分隔链表</module>
         <module>165-比较版本号</module>
+        <module>60-第k个排列</module>
+        <module>31-下一个排列</module>
+        <module>59-螺旋矩阵 II</module>
+        <module>134-加油站</module>
+        <module>133-克隆图</module>
     </modules>
 
 
