@@ -101,6 +101,7 @@
       <module fileurl="file://$PROJECT_DIR$/216-组合总和3/216-组合总和3.iml" filepath="$PROJECT_DIR$/216-组合总和3/216-组合总和3.iml" />
       <module fileurl="file://$PROJECT_DIR$/217-存在重复元素/217-存在重复元素.iml" filepath="$PROJECT_DIR$/217-存在重复元素/217-存在重复元素.iml" />
       <module fileurl="file://$PROJECT_DIR$/22-括号生成/22-括号生成.iml" filepath="$PROJECT_DIR$/22-括号生成/22-括号生成.iml" />
+      <module fileurl="file://$PROJECT_DIR$/220-存在重复元素 III/220-存在重复元素 III.iml" filepath="$PROJECT_DIR$/220-存在重复元素 III/220-存在重复元素 III.iml" />
       <module fileurl="file://$PROJECT_DIR$/221-最大正方形/221-最大正方形.iml" filepath="$PROJECT_DIR$/221-最大正方形/221-最大正方形.iml" />
       <module fileurl="file://$PROJECT_DIR$/225-用队列模拟栈/225-用队列模拟栈.iml" filepath="$PROJECT_DIR$/225-用队列模拟栈/225-用队列模拟栈.iml" />
       <module fileurl="file://$PROJECT_DIR$/226-翻转二叉树/226-翻转二叉树.iml" filepath="$PROJECT_DIR$/226-翻转二叉树/226-翻转二叉树.iml" />
@@ -121,6 +122,7 @@
       <module fileurl="file://$PROJECT_DIR$/26-删除排序数组中的重复项/26-删除排序数组中的重复项.iml" filepath="$PROJECT_DIR$/26-删除排序数组中的重复项/26-删除排序数组中的重复项.iml" />
       <module fileurl="file://$PROJECT_DIR$/260-只出现一次的数字 III/260-只出现一次的数字 III.iml" filepath="$PROJECT_DIR$/260-只出现一次的数字 III/260-只出现一次的数字 III.iml" />
       <module fileurl="file://$PROJECT_DIR$/268-缺失数字/268-缺失数字.iml" filepath="$PROJECT_DIR$/268-缺失数字/268-缺失数字.iml" />
+      <module fileurl="file://$PROJECT_DIR$/274-H 指数/274-H 指数.iml" filepath="$PROJECT_DIR$/274-H 指数/274-H 指数.iml" />
       <module fileurl="file://$PROJECT_DIR$/278-第一个错误的版本/278-第一个错误的版本.iml" filepath="$PROJECT_DIR$/278-第一个错误的版本/278-第一个错误的版本.iml" />
       <module fileurl="file://$PROJECT_DIR$/279-完全平方数/279-完全平方数.iml" filepath="$PROJECT_DIR$/279-完全平方数/279-完全平方数.iml" />
       <module fileurl="file://$PROJECT_DIR$/283-移动零/283-移动零.iml" filepath="$PROJECT_DIR$/283-移动零/283-移动零.iml" />
@@ -288,10 +290,18 @@
       <module fileurl="file://$PROJECT_DIR$/997-找到小镇的法官/997-找到小镇的法官.iml" filepath="$PROJECT_DIR$/997-找到小镇的法官/997-找到小镇的法官.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton-Pattern/Singleton-Pattern.iml" filepath="$PROJECT_DIR$/Singleton-Pattern/Singleton-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hash/hash.iml" filepath="$PROJECT_DIR$/hash/hash.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/剑指 Offer 07. 重建二叉树/剑指 Offer 07. 重建二叉树.iml" filepath="$PROJECT_DIR$/剑指 Offer 07. 重建二叉树/剑指 Offer 07. 重建二叉树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指 Offer 14- II. 剪绳子 II/剑指 Offer 14- II. 剪绳子 II.iml" filepath="$PROJECT_DIR$/剑指 Offer 14- II. 剪绳子 II/剑指 Offer 14- II. 剪绳子 II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指 Offer 26. 树的子结构/剑指 Offer 26. 树的子结构.iml" filepath="$PROJECT_DIR$/剑指 Offer 26. 树的子结构/剑指 Offer 26. 树的子结构.iml" />
       <module fileurl="file://$PROJECT_DIR$/剑指 Offer 32 - III. 从上到下打印二叉树 III/剑指 Offer 32 - III. 从上到下打印二叉树 III.iml" filepath="$PROJECT_DIR$/剑指 Offer 32 - III. 从上到下打印二叉树 III/剑指 Offer 32 - III. 从上到下打印二叉树 III.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指 Offer 33. 二叉搜索树的后序遍历序列/剑指 Offer 33. 二叉搜索树的后序遍历序列.iml" filepath="$PROJECT_DIR$/剑指 Offer 33. 二叉搜索树的后序遍历序列/剑指 Offer 33. 二叉搜索树的后序遍历序列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指 Offer 34. 二叉树中和为某一值的路径/剑指 Offer 34. 二叉树中和为某一值的路径.iml" filepath="$PROJECT_DIR$/剑指 Offer 34. 二叉树中和为某一值的路径/剑指 Offer 34. 二叉树中和为某一值的路径.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指 Offer 36. 二叉搜索树与双向链表/剑指 Offer 36. 二叉搜索树与双向链表.iml" filepath="$PROJECT_DIR$/剑指 Offer 36. 二叉搜索树与双向链表/剑指 Offer 36. 二叉搜索树与双向链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指 Offer 44. 数字序列中某一位的数字/剑指 Offer 44. 数字序列中某一位的数字.iml" filepath="$PROJECT_DIR$/剑指 Offer 44. 数字序列中某一位的数字/剑指 Offer 44. 数字序列中某一位的数字.iml" />
       <module fileurl="file://$PROJECT_DIR$/剑指 Offer 51. 数组中的逆序对/剑指 Offer 51. 数组中的逆序对.iml" filepath="$PROJECT_DIR$/剑指 Offer 51. 数组中的逆序对/剑指 Offer 51. 数组中的逆序对.iml" />
+      <module fileurl="file://$PROJECT_DIR$/剑指 Offer 56 - I. 数组中数字出现的次数/剑指 Offer 56 - I. 数组中数字出现的次数.iml" filepath="$PROJECT_DIR$/剑指 Offer 56 - I. 数组中数字出现的次数/剑指 Offer 56 - I. 数组中数字出现的次数.iml" />
       <module fileurl="file://$PROJECT_DIR$/剑指 Offer 64. 求1+2+…+n/剑指 Offer 64. 求1+2+…+n.iml" filepath="$PROJECT_DIR$/剑指 Offer 64. 求1+2+…+n/剑指 Offer 64. 求1+2+…+n.iml" />
       <module fileurl="file://$PROJECT_DIR$/阿里2020春季某笔试题/阿里2020春季某笔试题.iml" filepath="$PROJECT_DIR$/阿里2020春季某笔试题/阿里2020春季某笔试题.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题 02.04. 分割链表/面试题 02.04. 分割链表.iml" filepath="$PROJECT_DIR$/面试题 02.04. 分割链表/面试题 02.04. 分割链表.iml" />

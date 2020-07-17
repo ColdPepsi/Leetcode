@@ -10,7 +10,7 @@
         <module name="572-另一棵树的子树" />
         <module name="面试题 16.20. T9键盘" />
         <module name="404-左叶子之和" />
-        <module name="516-最长回文子序列" />
+        <module name="131-分割回文串" />
         <module name="103-二叉树的锯齿形层次遍历" />
         <module name="650-2键键盘复制粘贴字符" />
         <module name="67-二进制求和" />
@@ -34,14 +34,14 @@
         <module name="476-数字的补数" />
         <module name="46-全排列" />
         <module name="面试题 16.11. 跳水板" />
-        <module name="111-二叉树最小深度" />
+        <module name="653-两数之和4-输入BST" />
+        <module name="240-搜索二维矩阵2" />
         <module name="61-旋转链表" />
         <module name="350-两个数组的交集 II" />
         <module name="198-打家劫舍" />
-        <module name="139-字符串按单词列表分割" />
-        <module name="386-字典序排数" />
         <module name="429-N叉树的层序遍历" />
         <module name="413-等差数列划分" />
+        <module name="剑指 Offer 33. 二叉搜索树的后序遍历序列" />
         <module name="104-二叉树最大深度" />
         <module name="剑指 Offer 51. 数组中的逆序对" />
         <module name="1296-划分数组为连续数字的集合" />
@@ -50,7 +50,6 @@
         <module name="26-删除排序数组中的重复项" />
         <module name="55-跳跃游戏" />
         <module name="744-寻找比目标大的最小字母" />
-        <module name="217-存在重复元素" />
         <module name="11-盛最多水的容器" />
         <module name="932-漂亮数组" />
         <module name="278-第一个错误的版本" />
@@ -60,10 +59,11 @@
         <module name="86-分隔链表" />
         <module name="461-汉明距离" />
         <module name="22-括号生成" />
-        <module name="1254-统计封闭岛屿的数目" />
+        <module name="167-两数之和2-输入有序数组" />
         <module name="1325-删除给定值的叶子节点" />
         <module name="542-01矩阵" />
         <module name="231-2的幂" />
+        <module name="213-打家劫舍2" />
         <module name="590-N叉树的后序遍历" />
         <module name="257-二叉树的所有路径" />
         <module name="725-分隔链表" />
@@ -74,13 +74,14 @@
         <module name="1002-查找常用字符" />
         <module name="376-最长摆动序列" />
         <module name="20200408华为笔试第二题" />
-        <module name="70-爬楼梯" />
         <module name="面试题 04.03. 特定深度节点链表" />
         <module name="95-不同的二叉搜索树 II" />
         <module name="199-二叉树的右视图" />
         <module name="268-缺失数字" />
+        <module name="168-Excel列表名称" />
+        <module name="116-填充每个节点的下一个右侧节点指针" />
         <module name="221-最大正方形" />
-        <module name="426-将二叉搜索树转化为排序的双向链表" />
+        <module name="139-字符串按单词列表分割" />
         <module name="108-将有序数组转化为平衡二叉树" />
         <module name="100-相同的树" />
         <module name="面试题29. 顺时针打印矩阵" />
@@ -88,7 +89,7 @@
         <module name="283-移动零" />
         <module name="1162-地图分析" />
         <module name="1115-交替打印FooBar" />
-        <module name="1226-哲学家进餐" />
+        <module name="面试题32 - I. 从上到下打印二叉树" />
         <module name="110-平衡二叉树" />
         <module name="150-逆波兰表达式求值" />
         <module name="78-子集" />
@@ -112,42 +113,43 @@
         <module name="152-乘积最大子数组" />
         <module name="206-反转链表" />
         <module name="1232-缀点成线" />
+        <module name="剑指 Offer 14- II. 剪绳子 II" />
         <module name="143-重排链表" />
         <module name="128-最长连续序列" />
         <module name="93-复原IP地址" />
         <module name="409-构造最长回文串" />
+        <module name="617-合并二叉树" />
         <module name="951-翻转等价二叉树" />
         <module name="1143-最长公共子序列" />
         <module name="112-路径总和" />
         <module name="204-计数质数" />
-        <module name="面试题32 - I. 从上到下打印二叉树" />
+        <module name="hash" />
+        <module name="386-字典序排数" />
         <module name="91-解码方法-分割整数构成的字母字符串" />
         <module name="518-零钱兑换2" />
         <module name="113-路径总和 II" />
         <module name="面试题 02.05. 链表求和" />
-        <module name="53-最大子序和" />
         <module name="530-二叉搜索树的最小绝对差" />
         <module name="37-解数独" />
         <module name="318-最大单词长度乘积" />
-        <module name="665-非递减序列" />
         <module name="647-回文子串的个数" />
         <module name="64-矩阵的最小路径和" />
         <module name="122-买卖股票的最大收益 II" />
-        <module name="131-分割回文串" />
+        <module name="面试题32 - II. 从上到下打印二叉树 II" />
         <module name="79-单词搜索" />
         <module name="684-冗余连接" />
         <module name="671-二叉树中第二小的结点" />
         <module name="130-被围绕的区域" />
+        <module name="面试题06. 从尾到头打印链表" />
         <module name="19-删除链表倒数第N个结点" />
         <module name="667-优美的排列2" />
-        <module name="75-颜色分类" />
         <module name="485-最大连续1的个数" />
         <module name="73-矩阵置零" />
         <module name="133-克隆图" />
-        <module name="653-两数之和4-输入BST" />
+        <module name="367-有效的完全平方数" />
         <module name="494-目标和" />
         <module name="1091-二进制矩阵中的最短路径" />
-        <module name="213-打家劫舍2" />
+        <module name="665-非递减序列" />
         <module name="566-重塑矩阵" />
         <module name="680-验证回文字符串 Ⅱ" />
         <module name="面试题 08.12. 八皇后" />
@@ -155,23 +157,28 @@
         <module name="1195-交替打印字符串" />
         <module name="71-简化路径" />
         <module name="679-24点游戏" />
+        <module name="426-将二叉搜索树转化为排序的双向链表" />
         <module name="52-N皇后 II" />
+        <module name="205-同构字符串" />
         <module name="39-组合总和" />
+        <module name="剑指 Offer 34. 二叉树中和为某一值的路径" />
         <module name="326-3的幂" />
         <module name="125-验证回文串" />
         <module name="763-划分字母区间" />
         <module name="417-太平洋大西洋水流问题" />
         <module name="9-判断一个数是否是回文数" />
         <module name="513-找树左下角的值" />
+        <module name="274-H 指数" />
         <module name="394-字符串解码" />
         <module name="801-使序列递增的最小交换次数" />
         <module name="503-下一个更大的元素2" />
         <module name="剑指 Offer 32 - III. 从上到下打印二叉树 III" />
         <module name="35-搜索插入位置" />
+        <module name="1392-最长快乐前缀" />
         <module name="234-回文链表" />
-        <module name="378-有序矩阵中第K小元素" />
         <module name="565-数组嵌套" />
         <module name="406-根据身高重建队列" />
+        <module name="111-二叉树最小深度" />
         <module name="415-字符串相加" />
         <module name="101-对称二叉树" />
         <module name="31-下一个排列" />
@@ -181,7 +188,6 @@
         <module name="215-数组中的第K个最大元素" />
         <module name="697-数组的度" />
         <module name="718-最长重复子数组" />
-        <module name="面试题 16.25. LRU缓存" />
         <module name="34-在排序数组中查找元素的第一个和最后一个位置" />
         <module name="228-汇总区间" />
         <module name="面试题 08.08. 有重复字符串的排列组合" />
@@ -197,7 +203,8 @@
         <module name="21-合并有序链表" />
         <module name="common" />
         <module name="96-不同的二叉搜索树" />
-        <module name="168-Excel列表名称" />
+        <module name="451-按照字符出现频率排序" />
+        <module name="1226-哲学家进餐" />
         <module name="687-最长同值路径" />
         <module name="669-修剪二叉搜索树" />
         <module name="529-扫雷游戏" />
@@ -205,10 +212,10 @@
         <module name="20200408华为笔试第一题" />
         <module name="474-01字符构成的最多的字符串" />
         <module name="36-有效的数独" />
-        <module name="367-有效的完全平方数" />
+        <module name="217-存在重复元素" />
         <module name="107-二叉树的层次遍历 II" />
+        <module name="24-两两交换链表中的结点" />
         <module name="279-完全平方数" />
-        <module name="232-用栈实现队列" />
         <module name="121-买卖股票的最佳时机" />
         <module name="90-子集2" />
         <module name="面试题46. 把数字翻译成字符串" />
@@ -222,20 +229,21 @@
         <module name="524-通过删除字母匹配到字典里最长单词" />
         <module name="23-合并K个排序链表" />
         <module name="151-翻转字符串里的单词" />
+        <module name="141-环形链表" />
         <module name="328-奇偶链表" />
         <module name="56-合并区间" />
         <module name="974-和可被 K 整除的子数组" />
+        <module name="72-编辑距离" />
         <module name="392-判断子序列" />
         <module name="645-错误的集合" />
         <module name="238-除自身以外数组的乘积" />
-        <module name="315-计算右侧小于当前元素的个数" />
         <module name="1423-可获得的最大点数" />
         <module name="138-复制带随机指针的链表" />
         <module name="343-整数拆分" />
         <module name="42-接雨水" />
         <module name="633-平方数之和" />
         <module name="1306-跳跃游戏 III" />
-        <module name="面试题32 - II. 从上到下打印二叉树 II" />
+        <module name="剑指 Offer 44. 数字序列中某一位的数字" />
         <module name="743-网络延迟时间" />
         <module name="面试题 02.08. 环路检测" />
         <module name="260-只出现一次的数字 III" />
@@ -249,7 +257,6 @@
         <module name="501-二叉搜索树中的众数" />
         <module name="1116-打印零与奇偶数" />
         <module name="462-最少移动次数使数组元素相等 II" />
-        <module name="114-二叉树展开为链表" />
         <module name="16-最接近的三数之和" />
         <module name="766-托普利茨矩阵" />
         <module name="646-最长数对链" />
@@ -257,12 +264,15 @@
         <module name="200-岛屿数量" />
         <module name="508-出现次数最多的子树元素和" />
         <module name="面试题59 - II. 队列的最大值" />
+        <module name="剑指 Offer 26. 树的子结构" />
         <module name="120-三角形最小路径和" />
+        <module name="516-最长回文子序列" />
         <module name="40-组合求和2" />
         <module name="74-搜索二维矩阵" />
         <module name="5-最长回文子串" />
         <module name="515-在每个数行中找最大值" />
         <module name="面试题 04.05. 合法二叉搜索树" />
+        <module name="220-存在重复元素 III" />
         <module name="20200421WeBank笔试第二题" />
         <module name="997-找到小镇的法官" />
         <module name="226-翻转二叉树" />
@@ -271,50 +281,50 @@
         <module name="235-二叉搜索树的最近公共祖先" />
         <module name="455-分发饼干" />
         <module name="707-设计链表" />
-        <module name="72-编辑距离" />
+        <module name="剑指 Offer 36. 二叉搜索树与双向链表" />
         <module name="210-课程表 II" />
         <module name="435-无重叠区间" />
-        <module name="167-两数之和2-输入有序数组" />
+        <module name="75-颜色分类" />
         <module name="377-组合总数4" />
         <module name="287-寻找重复数" />
         <module name="20200421WeBank笔试第三题" />
         <module name="1300-转变数组后最接近目标值的数组和" />
-        <module name="617-合并二叉树" />
+        <module name="70-爬楼梯" />
+        <module name="583-两个字符串的删除操作" />
         <module name="83-删除排序链表中的重复元素" />
         <module name="342-4的幂" />
         <module name="802-找到最终的安全状态" />
         <module name="696-计数二进制字串" />
         <module name="190-颠倒二进制位" />
         <module name="452-用最少数量的箭引爆气球" />
-        <module name="25-K 个一组翻转链表" />
-        <module name="116-填充每个节点的下一个右侧节点指针" />
+        <module name="232-用栈实现队列" />
         <module name="54-螺旋矩阵" />
-        <module name="面试题06. 从尾到头打印链表" />
+        <module name="1254-统计封闭岛屿的数目" />
         <module name="695-岛屿的最大面积" />
         <module name="169-多数元素" />
         <module name="14-最长公共前缀" />
-        <module name="205-同构字符串" />
-        <module name="面试题 04.01. 节点间通路" />
-        <module name="1392-最长快乐前缀" />
+        <module name="面试题 16.25. LRU缓存" />
+        <module name="剑指 Offer 56 - I. 数组中数字出现的次数" />
+        <module name="114-二叉树展开为链表" />
         <module name="605-种花问题" />
         <module name="63-不同路径 II" />
         <module name="207-课程表" />
         <module name="146-LRU缓存机制" />
         <module name="98-验证二叉搜索树" />
-        <module name="141-环形链表" />
+        <module name="378-有序矩阵中第K小元素" />
         <module name="230-二叉搜索树中第K小元素" />
         <module name="440-字典序的第K小数字" />
         <module name="77-组合" />
         <module name="637-二叉树的层平均值" />
         <module name="15-三数之和" />
         <module name="543-二叉树的直径" />
-        <module name="240-搜索二维矩阵2" />
-        <module name="583-两个字符串的删除操作" />
+        <module name="315-计算右侧小于当前元素的个数" />
+        <module name="面试题 04.01. 节点间通路" />
         <module name="106-从中序与后序遍历序列构造二叉树" />
         <module name="153-旋转数组的最小值" />
-        <module name="24-两两交换链表中的结点" />
+        <module name="25-K 个一组翻转链表" />
         <module name="319-灯泡开关" />
-        <module name="451-按照字符出现频率排序" />
+        <module name="53-最大子序和" />
         <module name="172-阶乘后的零" />
         <module name="547-朋友圈" />
       </profile>
@@ -420,6 +430,7 @@
       <module name="216-组合总和3" target="8" />
       <module name="217-存在重复元素" target="8" />
       <module name="22-括号生成" target="8" />
+      <module name="220-存在重复元素 III" target="8" />
       <module name="221-最大正方形" target="8" />
       <module name="225-用队列模拟栈" target="8" />
       <module name="226-翻转二叉树" target="8" />
@@ -440,6 +451,7 @@
       <module name="26-删除排序数组中的重复项" target="8" />
       <module name="260-只出现一次的数字 III" target="8" />
       <module name="268-缺失数字" target="8" />
+      <module name="274-H 指数" target="8" />
       <module name="278-第一个错误的版本" target="8" />
       <module name="279-完全平方数" target="8" />
       <module name="283-移动零" target="8" />
@@ -606,12 +618,20 @@
       <module name="99-恢复二叉搜索树" target="8" />
       <module name="997-找到小镇的法官" target="8" />
       <module name="common" target="8" />
+      <module name="hash" target="8" />
       <module name="leetcode" target="8" />
       <module name="other_code" target="8" />
       <module name="Singleton-Pattern" target="8" />
       <module name="剑指 Offer 07. 重建二叉树" target="8" />
+      <module name="剑指 Offer 14- II. 剪绳子 II" target="8" />
+      <module name="剑指 Offer 26. 树的子结构" target="8" />
       <module name="剑指 Offer 32 - III. 从上到下打印二叉树 III" target="8" />
+      <module name="剑指 Offer 33. 二叉搜索树的后序遍历序列" target="8" />
+      <module name="剑指 Offer 34. 二叉树中和为某一值的路径" target="8" />
+      <module name="剑指 Offer 36. 二叉搜索树与双向链表" target="8" />
+      <module name="剑指 Offer 44. 数字序列中某一位的数字" target="8" />
       <module name="剑指 Offer 51. 数组中的逆序对" target="8" />
+      <module name="剑指 Offer 56 - I. 数组中数字出现的次数" target="8" />
       <module name="剑指 Offer 64. 求1+2+…+n" target="8" />
       <module name="阿里2020春季某笔试题" target="8" />
       <module name="面试题 02.04. 分割链表" target="8" />
