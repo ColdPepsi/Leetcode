@@ -247,10 +247,14 @@
         <option value="$PROJECT_DIR$/538-把二叉搜索树变成累加树/pom.xml" />
         <option value="$PROJECT_DIR$/240-搜索二维矩阵2/pom.xml" />
         <option value="$PROJECT_DIR$/242-有效的字母异位词/pom.xml" />
+        <option value="$PROJECT_DIR$/剑指 Offer 45. 把数组排成最小的数/pom.xml" />
+        <option value="$PROJECT_DIR$/97-交错字符串/pom.xml" />
+        <option value="$PROJECT_DIR$/312-戳气球/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/5465-子树中标签相同的节点数/pom.xml" />
         <option value="$PROJECT_DIR$/other_code/pom.xml" />
       </set>
     </option>

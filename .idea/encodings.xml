@@ -71,6 +71,8 @@
     <file url="file://$PROJECT_DIR$/15-三数之和/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/150-逆波兰表达式求值/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/151-翻转字符串里的单词/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1519. 子树中标签相同的节点数/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1519. 子树中标签相同的节点数/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/152-乘积最大子数组/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/153-旋转数组的最小值/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/155-最小栈/src/main/java" charset="UTF-8" />
@@ -141,10 +143,13 @@
     <file url="file://$PROJECT_DIR$/283-移动零/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/287-寻找重复数/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/289-生命游戏/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/297-二叉树的序列化与反序列化/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/297-二叉树的序列化与反序列化/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/300-最长上升子序列/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/303-区域和检索-数组不可变/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/31-下一个排列/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/31-下一个排列/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/312-戳气球/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/315-计算右侧小于当前元素的个数/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/315-计算右侧小于当前元素的个数/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/318-最大单词长度乘积/src/main/java" charset="UTF-8" />
@@ -310,6 +315,7 @@
     <file url="file://$PROJECT_DIR$/95-不同的二叉搜索树 II/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/951-翻转等价二叉树/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/96-不同的二叉搜索树/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/97-交错字符串/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/974-和可被 K 整除的子数组/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/98-验证二叉搜索树/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/983-最低票价/src/main/java" charset="UTF-8" />
@@ -323,6 +329,8 @@
     <file url="file://$PROJECT_DIR$/hash/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 07. 重建二叉树/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 07. 重建二叉树/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/剑指 Offer 12. 矩阵中的路径/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/剑指 Offer 12. 矩阵中的路径/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 14- II. 剪绳子 II/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 14- II. 剪绳子 II/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 26. 树的子结构/src/main/java" charset="UTF-8" />
@@ -336,6 +344,9 @@
     <file url="file://$PROJECT_DIR$/剑指 Offer 36. 二叉搜索树与双向链表/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 44. 数字序列中某一位的数字/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 44. 数字序列中某一位的数字/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/剑指 Offer 45. 把数组排成最小的数/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/剑指 Offer 47. 礼物的最大价值/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/剑指 Offer 47. 礼物的最大价值/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 51. 数组中的逆序对/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 51. 数组中的逆序对/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/剑指 Offer 56 - I. 数组中数字出现的次数/src/main/java" charset="UTF-8" />
