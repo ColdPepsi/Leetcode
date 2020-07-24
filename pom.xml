@@ -380,6 +380,16 @@
         <module>297-二叉树的序列化与反序列化</module>
         <module>剑指 Offer 47. 礼物的最大价值</module>
         <module>剑指 Offer 12. 矩阵中的路径</module>
+        <module>剑指 Offer 38. 字符串的排列</module>
+        <module>剑指 Offer 11. 旋转数组的最小数字</module>
+        <module>剑指 Offer 37. 序列化二叉树</module>
+        <module>剑指 Offer 35. 复杂链表的复制</module>
+        <module>剑指 Offer 56 - II. 数组中数字出现的次数 II</module>
+        <module>剑指 Offer 31. 栈的压入、弹出序列</module>
+        <module>剑指 Offer 13. 机器人的运动范围</module>
+        <module>剑指 Offer 43. 1～n整数中1出现的次数</module>
+        <module>1025. 除数博弈</module>
+        <module>剑指 Offer 16. 数值的整数次方</module>
     </modules>
 
 

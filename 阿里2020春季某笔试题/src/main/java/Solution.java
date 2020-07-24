@@ -32,35 +32,36 @@ public class Solution {
         }
         if (cards[index] == 0) {
             backTracking(cards, currentTimes, index + 1);
-        }
-        if (index + 2 < cards.length && cards[index] >= 2 && cards[index + 1] >= 2 && cards[index + 2] >= 2) {
-            //出3连对子
-            for (int i = 0; i < index + 3; i++) {
-                cards[i] -= 2;
+        } else {
+            if (index + 2 < cards.length && cards[index] >= 2 && cards[index + 1] >= 2 && cards[index + 2] >= 2) {
+                //出3连对子
+                for (int i = 0; i < index + 3; i++) {
+                    cards[i] -= 2;
+                }
+                backTracking(cards, currentTimes + 1, index);//此处加1，遍历后面的，index不一定出完，所以还从index出发
+                for (int i = 0; i < index + 3; i++) {//恢复现场
+                    cards[i] += 2;
+                }
             }
-            backTracking(cards, currentTimes + 1, index);//此处加1，遍历后面的，index不一定出完，所以还从index出发
-            for (int i = 0; i < index + 3; i++) {//恢复现场
-                cards[i] += 2;
+            if (index + 4 < cards.length &&
+                    cards[index] >= 1 && cards[index + 1] >= 1 && cards[index + 2] >= 1 && cards[index + 3] >= 1 && cards[index + 4] >= 1) {
+                //出5张顺子
+                for (int i = 0; i < index + 5; i++) {
+                    cards[i]--;
+                }
+                backTracking(cards, currentTimes + 1, index);
+                for (int i = 0; i < index + 5; i++) {//恢复现场
+                    cards[i]++;
+                }
             }
-        }
-        if (index + 4 < cards.length &&
-                cards[index] >= 1 && cards[index + 1] >= 1 && cards[index + 2] >= 1 && cards[index + 3] >= 1 && cards[index + 4] >= 1) {
-            //出5张顺子
-            for (int i = 0; i < index + 5; i++) {
-                cards[i]--;
+            if (cards[index] >= 2) {
+                //出对
+                cards[index] -= 2;
+                backTracking(cards, currentTimes + 1, index);
+                cards[index] += 2;//恢复现场
             }
-            backTracking(cards, currentTimes + 1, index);
-            for (int i = 0; i < index + 5; i++) {//恢复现场
-                cards[i]++;
-            }
+            //index出单张
+            backTracking(cards, currentTimes + cards[index], index + 1);//index出完了，从index+1开始
         }
-        if (cards[index] >= 2) {
-            //出对
-            cards[index] -= 2;
-            backTracking(cards, currentTimes + 1, index);
-            cards[index] += 2;//恢复现场
-        }
-        //index出单张
-        backTracking(cards, currentTimes + cards[index], index + 1);//index出完了，从index+1开始
     }
 }
