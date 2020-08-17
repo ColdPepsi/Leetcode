@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/100-相同的树/100-相同的树.iml" filepath="$PROJECT_DIR$/100-相同的树/100-相同的树.iml" />
       <module fileurl="file://$PROJECT_DIR$/1002-查找常用字符/1002-查找常用字符.iml" filepath="$PROJECT_DIR$/1002-查找常用字符/1002-查找常用字符.iml" />
       <module fileurl="file://$PROJECT_DIR$/101-对称二叉树/101-对称二叉树.iml" filepath="$PROJECT_DIR$/101-对称二叉树/101-对称二叉树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1017-负二进制转换/1017-负二进制转换.iml" filepath="$PROJECT_DIR$/1017-负二进制转换/1017-负二进制转换.iml" />
       <module fileurl="file://$PROJECT_DIR$/102-二叉树的层次遍历/102-二叉树的层次遍历.iml" filepath="$PROJECT_DIR$/102-二叉树的层次遍历/102-二叉树的层次遍历.iml" />
       <module fileurl="file://$PROJECT_DIR$/1020-飞地的数量/1020-飞地的数量.iml" filepath="$PROJECT_DIR$/1020-飞地的数量/1020-飞地的数量.iml" />
       <module fileurl="file://$PROJECT_DIR$/1025. 除数博弈/1025. 除数博弈.iml" filepath="$PROJECT_DIR$/1025. 除数博弈/1025. 除数博弈.iml" />
@@ -359,6 +360,7 @@
       <module fileurl="file://$PROJECT_DIR$/面试题 08.07. 无重复字符串的排列组合/面试题 08.07. 无重复字符串的排列组合.iml" filepath="$PROJECT_DIR$/面试题 08.07. 无重复字符串的排列组合/面试题 08.07. 无重复字符串的排列组合.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题 08.08. 有重复字符串的排列组合/面试题 08.08. 有重复字符串的排列组合.iml" filepath="$PROJECT_DIR$/面试题 08.08. 有重复字符串的排列组合/面试题 08.08. 有重复字符串的排列组合.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题 08.09. 括号/面试题 08.09. 括号.iml" filepath="$PROJECT_DIR$/面试题 08.09. 括号/面试题 08.09. 括号.iml" />
+      <module fileurl="file://$PROJECT_DIR$/面试题 08.11. 硬币/面试题 08.11. 硬币.iml" filepath="$PROJECT_DIR$/面试题 08.11. 硬币/面试题 08.11. 硬币.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题 08.12. 八皇后/面试题 08.12. 八皇后.iml" filepath="$PROJECT_DIR$/面试题 08.12. 八皇后/面试题 08.12. 八皇后.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题 16.10. 生存人数/面试题 16.10. 生存人数.iml" filepath="$PROJECT_DIR$/面试题 16.10. 生存人数/面试题 16.10. 生存人数.iml" />
       <module fileurl="file://$PROJECT_DIR$/面试题 16.11. 跳水板/面试题 16.11. 跳水板.iml" filepath="$PROJECT_DIR$/面试题 16.11. 跳水板/面试题 16.11. 跳水板.iml" />
