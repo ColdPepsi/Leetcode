@@ -431,6 +431,11 @@
         <module>43-字符串相乘</module>
         <module>面试题 08.11. 硬币</module>
         <module>1017-负二进制转换</module>
+        <module>1073-负二进制数相加</module>
+        <module>976-三角形的最大周长</module>
+        <module>1218-最长定差子序列</module>
+        <module>1448-统计二叉树中好节点的数目</module>
+        <module>面试题 17.06. 2出现的次数</module>
     </modules>
 
 
