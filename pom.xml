@@ -436,6 +436,19 @@
         <module>1218-最长定差子序列</module>
         <module>1448-统计二叉树中好节点的数目</module>
         <module>面试题 17.06. 2出现的次数</module>
+        <module>239-滑动窗口最大值</module>
+        <module>459-重复的子字符串</module>
+        <module>201-数字范围按位与</module>
+        <module>33-搜索旋转排序数组</module>
+        <module>491-递增子序列</module>
+        <module>smooth-weighted-round-robin</module>
+        <module>332-重新安排行程</module>
+        <module>355-设计推特</module>
+        <module>48-旋转图像</module>
+        <module>657-机器人能否返回原点</module>
+        <module>1314-矩阵区域和</module>
+        <module>304-二维区域和检索 - 矩阵不可变</module>
+        <module>1504-统计全 1 子矩形</module>
     </modules>
 
 
