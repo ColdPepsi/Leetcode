@@ -449,6 +449,18 @@
         <module>1314-矩阵区域和</module>
         <module>304-二维区域和检索 - 矩阵不可变</module>
         <module>1504-统计全 1 子矩形</module>
+        <module>LintCode139-最接近零的子数组和</module>
+        <module>214-最短回文串</module>
+        <module>486-预测赢家</module>
+        <module>173-二叉搜索树迭代器</module>
+        <module>209-长度最小的子数组</module>
+        <module>20200901拼多多笔试矩阵题</module>
+        <module>85-最大矩形</module>
+        <module>450-删除二叉搜索树中的节点</module>
+        <module>面试题 17.24. 最大子矩阵</module>
+        <module>986-区间列表的交集</module>
+        <module>436-寻找右区间</module>
+        <module>1288-删除被覆盖区间</module>
     </modules>
 
 
