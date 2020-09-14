@@ -8,21 +8,23 @@ import java.util.List;
  */
 public class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        List<List<Integer>> res = new ArrayList<List<Integer>>();
+        List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(candidates);//排序有利于剪枝
-        backtracking(candidates, target, res, new ArrayList<Integer>(), 0);
+        backtracking(candidates, target, res, new ArrayList<>(), 0);
         return res;
     }
 
     private void backtracking(int[] candidates, int target, List<List<Integer>> res,
                               List<Integer> prefix, int start) {
-        if (target == 0) {
-            res.add(new ArrayList<Integer>(prefix));//保存结果
+        if (target <= 0) {
+            if (target == 0) {
+                res.add(new ArrayList<>(prefix));//保存结果
+            }
             return;
         }
         for (int i = start; i < candidates.length; i++) {
             if (candidates[i] > target) {
-                continue;//如果把candidates[i]放到prefix里就超过target了
+                break;//如果把candidates[i]放到prefix里就超过target了
             }
             if (i > start && candidates[i] == candidates[i - 1]) {
                 continue;//去重，因为每次都向后回溯，如果一个数和前面一个元素相同，他前面回溯的结果，可能和他回溯的结果相同

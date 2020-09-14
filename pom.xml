@@ -461,6 +461,23 @@
         <module>986-区间列表的交集</module>
         <module>436-寻找右区间</module>
         <module>1288-删除被覆盖区间</module>
+        <module>1004-最大连续1的个数 III</module>
+        <module>20200907贝壳找房笔试第4题</module>
+        <module>926-将字符串翻转到单调递增</module>
+        <module>945-使数组唯一的最小增量</module>
+        <module>939-最小面积矩形</module>
+        <module>875-爱吃香蕉的珂珂</module>
+        <module>987-二叉树的垂序遍历</module>
+        <module>988-从叶结点开始的最小字符串</module>
+        <module>994-腐烂的橘子</module>
+        <module>654-最大二叉树</module>
+        <module>991-坏了的计算器</module>
+        <module>901-股票价格跨度</module>
+        <module>329-矩阵中的最长递增路径</module>
+        <module>931-下降路径最小和</module>
+        <module>912-排序数组</module>
+        <module>930-和相同的二元子数组</module>
+        <module>1008-先序遍历构造二叉树</module>
     </modules>
 
 

@@ -4,6 +4,10 @@
     <file url="file://$PROJECT_DIR$/1-两数之和/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/100-相同的树/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/1002-查找常用字符/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1004-最大连续1的个数 III/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1004-最大连续1的个数 III/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1008-先序遍历构造二叉树/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1008-先序遍历构造二叉树/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/101-对称二叉树/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/1017-负二进制转换/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/1017-负二进制转换/src/main/resources" charset="UTF-8" />
@@ -133,6 +137,8 @@
     <file url="file://$PROJECT_DIR$/20200421WeBank笔试第二题/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/20200901拼多多笔试矩阵题/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/20200901拼多多笔试矩阵题/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/20200907贝壳找房笔试第4题/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/20200907贝壳找房笔试第4题/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/204-计数质数/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/205-同构字符串/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/206-反转链表/src/main/java" charset="UTF-8" />
@@ -199,6 +205,8 @@
     <file url="file://$PROJECT_DIR$/322-零钱兑换/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/326-3的幂/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/328-奇偶链表/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/329-矩阵中的最长递增路径/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/329-矩阵中的最长递增路径/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/33-搜索旋转排序数组/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/33-搜索旋转排序数组/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/332-重新安排行程/src/main/java" charset="UTF-8" />
@@ -328,6 +336,8 @@
     <file url="file://$PROJECT_DIR$/65-有效数字/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/650-2键键盘复制粘贴字符/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/653-两数之和4-输入BST/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/654-最大二叉树/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/654-最大二叉树/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/657-机器人能否返回原点/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/657-机器人能否返回原点/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/662-二叉树最大宽度/src/main/java" charset="UTF-8" />
@@ -380,14 +390,30 @@
     <file url="file://$PROJECT_DIR$/85-最大矩形/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/86-分隔链表/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/86-分隔链表/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/875-爱吃香蕉的珂珂/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/875-爱吃香蕉的珂珂/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/88-合并两个有序数组/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/9-判断一个数是否是回文数/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/90-子集2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/901-股票价格跨度/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/901-股票价格跨度/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/91-解码方法-分割整数构成的字母字符串/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/912-排序数组/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/912-排序数组/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/92-反转链表 II/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/926-将字符串翻转到单调递增/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/926-将字符串翻转到单调递增/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/93-复原IP地址/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/930-和相同的二元子数组/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/930-和相同的二元子数组/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/931-下降路径最小和/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/931-下降路径最小和/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/932-漂亮数组/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/939-最小面积矩形/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/939-最小面积矩形/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/94-二叉树中序非递归遍历/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/945-使数组唯一的最小增量/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/945-使数组唯一的最小增量/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/95-不同的二叉搜索树 II/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/951-翻转等价二叉树/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/956-最高的广告牌/src/main/java" charset="UTF-8" />
@@ -401,11 +427,17 @@
     <file url="file://$PROJECT_DIR$/983-最低票价/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/986-区间列表的交集/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/986-区间列表的交集/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/987-二叉树的垂序遍历/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/987-二叉树的垂序遍历/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/988-从叶结点开始的最小字符串/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/988-从叶结点开始的最小字符串/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/99-恢复二叉搜索树/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/99-恢复二叉搜索树/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/991-坏了的计算器/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/991-坏了的计算器/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/994-腐烂的橘子/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/994-腐烂的橘子/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/997-找到小镇的法官/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Desensitization/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Desensitization/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/LintCode139-最接近零的子数组和/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/LintCode139-最接近零的子数组和/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Singleton-Pattern/src/main/java" charset="UTF-8" />

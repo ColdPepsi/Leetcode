@@ -18,7 +18,7 @@ public class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> res = new ArrayList<List<Integer>>();
         Arrays.sort(candidates);//排序有利于剪枝
-        backtracking(candidates, target, res, new ArrayList<Integer>(), 0);
+        backtracking(candidates, target, res, new ArrayList<>(), 0);
         return res;
     }
 
@@ -35,13 +35,15 @@ public class Solution {
      */
     private void backtracking(int[] candidates, int target, List<List<Integer>> res,
                               List<Integer> prefix, int start) {
-        if (target == 0) {
-            res.add(new ArrayList<Integer>(prefix));//保存结果
+        if (target <= 0) {
+            if (target == 0) {
+                res.add(new ArrayList<>(prefix));//保存结果
+            }
             return;
         }
         for (int i = start; i < candidates.length; i++) {
             if (candidates[i] > target) {
-                continue;//如果把candidates[i]放到prefix里就超过target了
+                break;//如果把candidates[i]放到prefix里就超过target了
             }
             prefix.add(candidates[i]);
             //下一次回溯还从i开始不是i+1，因为i可以重复利用
