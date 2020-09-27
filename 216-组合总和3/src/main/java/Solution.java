@@ -19,7 +19,7 @@ public class Solution {
         if (n < k || n > 45) {
             return res;
         }
-        backTracking(k, n, res, new ArrayList<Integer>(), 1);
+        backTracking(k, n, res, new ArrayList<>(), 1);
         return res;
     }
 
@@ -35,15 +35,15 @@ public class Solution {
      * @date 2020/3/23 11:55
      */
     private void backTracking(int k, int n, List<List<Integer>> res, List<Integer> prefix, int start) {
-        if (k == prefix.size() || n == 0) {
+        if (k == prefix.size() || n <= 0) {
             if (k == prefix.size() && n == 0) {
-                res.add(new ArrayList<Integer>(prefix));
+                res.add(new ArrayList<>(prefix));
             }
             return;
         }
         for (int i = start; i <= 9; i++) {
             if (i > n) {
-                continue;
+                break;
             }
             prefix.add(i);
             backTracking(k, n - i, res, prefix, i + 1);

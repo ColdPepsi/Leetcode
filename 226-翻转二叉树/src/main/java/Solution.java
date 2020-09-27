@@ -16,11 +16,8 @@ public class Solution {
         if (root == null) {
             return null;
         }
-        root.left = invertTree(root.left);
-        root.right = invertTree(root.right);
-        //交换左右孩子
-        TreeNode temp = root.left;
-        root.left = root.right;
+        TreeNode temp = invertTree(root.left);
+        root.left = invertTree(root.right);
         root.right = temp;
         return root;
     }

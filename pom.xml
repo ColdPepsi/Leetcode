@@ -478,6 +478,20 @@
         <module>912-排序数组</module>
         <module>930-和相同的二元子数组</module>
         <module>1008-先序遍历构造二叉树</module>
+        <module>41-缺失的第一个正数</module>
+        <module>1371-每个元音包含偶数次的最长子字符串</module>
+        <module>915-分割数组</module>
+        <module>45-跳跃游戏 II</module>
+        <module>698-划分为k个相等的子集</module>
+        <module>746-使用最小花费爬楼梯</module>
+        <module>826-安排工作以达到最大收益</module>
+        <module>1014-最佳观光组合</module>
+        <module>1011-在 D 天内送达包裹的能力</module>
+        <module>1145-二叉树着色游戏</module>
+        <module>295-数据流的中位数</module>
+        <module>263-丑数</module>
+        <module>32-最长有效括号</module>
+        <module>1477-找两个和为目标值且不重叠的子数组</module>
     </modules>
 
 
