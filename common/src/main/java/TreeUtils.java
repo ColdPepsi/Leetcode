@@ -16,9 +16,8 @@ import java.util.Map;
  * @author wubiao21 2020年07月17日 11:36:52
  */
 public class TreeUtils {
-    private Map<Integer, Integer> inPosition = new HashMap<Integer, Integer>();
-    private int[] preorder;
-    private int[] inorder;
+    private static Map<Integer, Integer> inPosition = new HashMap<>();
+    private static int[] preorder;
 
     /**
      * @param preorder 先序遍历序列
@@ -28,9 +27,8 @@ public class TreeUtils {
      * @author WuBiao
      * @date 2020/3/31 14:22
      */
-    public TreeNode buildTree(int[] preorder, int[] inorder) {
-        this.preorder = preorder;
-        this.inorder = inorder;
+    public static TreeNode buildTree(int[] preorder, int[] inorder) {
+        TreeUtils.preorder = preorder;
         for (int i = 0; i < inorder.length; i++) {
             inPosition.put(inorder[i], i);//存放元素和位置的映射
         }
@@ -47,7 +45,7 @@ public class TreeUtils {
      * @author WuBiao
      * @date 2020/3/31 14:25
      */
-    private TreeNode buildTree(int leftPre, int rightPre, int leftIn, int rightIn) {
+    private static TreeNode buildTree(int leftPre, int rightPre, int leftIn, int rightIn) {
         if (leftPre > rightPre || leftIn > rightIn) {
             return null;
         }

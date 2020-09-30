@@ -492,6 +492,37 @@
         <module>263-丑数</module>
         <module>32-最长有效括号</module>
         <module>1477-找两个和为目标值且不重叠的子数组</module>
+        <module>316-去除重复字母</module>
+        <module>861-翻转矩阵后的得分</module>
+        <module>968-监控二叉树</module>
+        <module>655-输出二叉树</module>
+        <module>673-最长递增子序列的个数</module>
+        <module>701-二叉搜索树中的插入操作</module>
+        <module>784-字母大小写全排列</module>
+        <module>117-填充每个节点的下一个右侧节点指针 II</module>
+        <module>846-一手顺子</module>
+        <module>814-二叉树剪枝</module>
+        <module>797-所有可能的路径</module>
+        <module>889-根据前序和后序遍历构造二叉树</module>
+        <module>1027-最长等差数列</module>
+        <module>313-超级丑数</module>
+        <module>713-乘积小于K的子数组</module>
+        <module>881-救生艇</module>
+        <module>856-括号的分数</module>
+        <module>539-最小时间差</module>
+        <module>593-有效的正方形</module>
+        <module>380-常数时间插入、删除和获取随机元素</module>
+        <module>710-黑名单中的随机数</module>
+        <module>525-连续数组</module>
+        <module>1530-好叶子节点对的数量</module>
+        <module>670-最大交换</module>
+        <module>740-删除与获得点数</module>
+        <module>886-可能的二分法</module>
+        <module>1161-最大层内元素和</module>
+        <module>1094-拼车</module>
+        <module>1171-从链表中删去总和值为零的连续节点</module>
+        <module>1201-丑数 III</module>
+        <module>1038-把二叉搜索树转换为累加树</module>
     </modules>
 
 

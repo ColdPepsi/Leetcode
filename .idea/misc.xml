@@ -260,6 +260,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/1531-压缩字符串 II/pom.xml" />
         <option value="$PROJECT_DIR$/5465-子树中标签相同的节点数/pom.xml" />
         <option value="$PROJECT_DIR$/Desensitization/pom.xml" />
         <option value="$PROJECT_DIR$/PAT/pom.xml" />
