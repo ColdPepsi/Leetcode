@@ -523,6 +523,17 @@
         <module>1171-从链表中删去总和值为零的连续节点</module>
         <module>1201-丑数 III</module>
         <module>1038-把二叉搜索树转换为累加树</module>
+        <module>27-移除元素</module>
+        <module>948-令牌放置</module>
+        <module>498-对角线遍历</module>
+        <module>419-甲板上的战舰</module>
+        <module>29-两数相除</module>
+        <module>142-环形链表 II</module>
+        <module>223-矩形面积</module>
+        <module>442-数组中重复的数据</module>
+        <module>478-在圆内随机生成点</module>
+        <module>523-连续的子数组和</module>
+        <module>229-求众数 II</module>
     </modules>
 
 
