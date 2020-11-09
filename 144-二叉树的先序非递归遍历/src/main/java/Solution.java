@@ -1,6 +1,7 @@
 import entity.TreeNode;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
@@ -30,5 +31,31 @@ public class Solution {
             }
         }
         return res;
+    }
+
+    /**
+     * 此方法左孩子不需要入栈，只有右孩子入栈
+     *
+     * @param root
+     * @return
+     */
+    public List<Integer> preorderTraversal2(TreeNode root) {
+        List<Integer> ret = new ArrayList<>();
+        if (root == null) {
+            return ret;
+        }
+        LinkedList<TreeNode> stack = new LinkedList<>();
+        stack.offerLast(root);//根节点入栈
+        while (!stack.isEmpty()) {
+            TreeNode curr = stack.pollLast();//获取栈顶结点
+            while (curr != null) {
+                ret.add(curr.val);//保存结果
+                if (curr.right != null) {//右孩子入栈
+                    stack.offerLast(curr.right);
+                }
+                curr = curr.left;//处理左孩子
+            }
+        }
+        return ret;
     }
 }

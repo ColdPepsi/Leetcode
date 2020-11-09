@@ -534,6 +534,18 @@
         <module>478-在圆内随机生成点</module>
         <module>523-连续的子数组和</module>
         <module>229-求众数 II</module>
+        <module>1367-二叉树中的列表</module>
+        <module>652-寻找重复的子树</module>
+        <module>977. 有序数组的平方</module>
+        <module>623-在二叉树中增加一行</module>
+        <module>849-到最近的人的最大距离</module>
+        <module>844-比较含退格的字符串</module>
+        <module>925-长按键入</module>
+        <module>414-第三大的数</module>
+        <module>540-有序数组中的单一元素</module>
+        <module>1365-有多少小于当前数字的数字</module>
+        <module>443-压缩字符串</module>
+        <module>973-最接近原点的 K 个点</module>
     </modules>
 
 
