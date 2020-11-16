@@ -4,66 +4,46 @@
  * in accordance with the terms of the license agreement you entered into with duolabao.com.
  */
 
+import java.util.Arrays;
+
 /**
- * 类Solution.java的实现描述：随机选择算法，这样时间复杂度是O(n)
+ * 类Solution.java的实现描述：随机选择算法，和快排写法一样，但是这样会抛弃另一半，这样时间复杂度是O(n)
  *
  * @author wubiao21 2020年11月09日 13:59:52
  */
 public class Solution {
     public int[][] kClosest(int[][] points, int K) {
-        node[] nodes = new node[points.length];
-        for (int i = 0; i < nodes.length; i++) {
-            int x = points[i][0];
-            int y = points[i][1];
-            nodes[i] = new node(x, y, x * x + y * y);
-        }
-        getK(nodes, 0, nodes.length - 1, K);
-        int[][] ret = new int[K][2];
-        for (int i = 0; i < K; i++) {
-            ret[i][0] = nodes[i].x;
-            ret[i][1] = nodes[i].y;
-        }
-        return ret;
+        getK(points, 0, points.length - 1, K);
+        return Arrays.copyOfRange(points, 0, K);
     }
 
-    private void getK(node[] nodes, int left, int right, int k) {
+    private void getK(int[][] points, int left, int right, int k) {
         if (left == right) {
             return;
         }
-        int position = partition(nodes, left, right);
+        int position = partition(points, left, right);
         int m = position - left + 1;
         if (k > m) {
-            getK(nodes, position + 1, right, k - m);
+            getK(points, position + 1, right, k - m);
         } else if (k < m) {
-            getK(nodes, left, position - 1, k);
+            getK(points, left, position - 1, k);
         }
     }
 
-    private int partition(node[] nodes, int left, int right) {
-        node temp = nodes[left];
+    private int partition(int[][] points, int left, int right) {
+        int[] temp = points[left];
+        int distant = temp[0] * temp[0] + temp[1] * temp[1];
         while (left < right) {
-            while (left < right && nodes[right].distant > temp.distant) {
+            while (left < right && points[right][0] * points[right][0] + points[right][1] * points[right][1] > distant) {
                 right--;
             }
-            nodes[left] = nodes[right];
-            while (left < right && nodes[left].distant <= temp.distant) {
+            points[left] = points[right];
+            while (left < right && points[left][0] * points[left][0] + points[left][1] * points[left][1] <= distant) {
                 left++;
             }
-            nodes[right] = nodes[left];
+            points[right] = points[left];
         }
-        nodes[left] = temp;
+        points[left] = temp;
         return left;
-    }
-}
-
-class node {
-    int x;
-    int y;
-    int distant;
-
-    public node(int x, int y, int distant) {
-        this.x = x;
-        this.y = y;
-        this.distant = distant;
     }
 }

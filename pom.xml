@@ -546,6 +546,12 @@
         <module>1365-有多少小于当前数字的数字</module>
         <module>443-压缩字符串</module>
         <module>973-最接近原点的 K 个点</module>
+        <module>463-岛屿的周长</module>
+        <module>49-字母异位词分组</module>
+        <module>84-柱状图中最大的矩形</module>
+        <module>922-按奇偶排序数组 II</module>
+        <module>222-完全二叉树的节点个数</module>
+        <module>1138-字母板上的路径</module>
     </modules>
 
 
