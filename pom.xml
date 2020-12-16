@@ -552,6 +552,9 @@
         <module>922-按奇偶排序数组 II</module>
         <module>222-完全二叉树的节点个数</module>
         <module>1138-字母板上的路径</module>
+        <module>89-格雷编码</module>
+        <module>290-单词规律</module>
+        <module>1030-距离顺序排列矩阵单元格</module>
     </modules>
 
 

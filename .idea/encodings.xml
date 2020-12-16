@@ -23,6 +23,8 @@
     <file url="file://$PROJECT_DIR$/1027-最长等差数列/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/1027-最长等差数列/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/103-二叉树的锯齿形层次遍历/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1030-距离顺序排列矩阵单元格/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/1030-距离顺序排列矩阵单元格/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/1038-把二叉搜索树转换为累加树/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/1038-把二叉搜索树转换为累加树/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/104-二叉树最大深度/src/main/java" charset="UTF-8" />
@@ -233,6 +235,8 @@
     <file url="file://$PROJECT_DIR$/289-生命游戏/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/29-两数相除/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/29-两数相除/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/290-单词规律/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/290-单词规律/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/295-数据流的中位数/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/295-数据流的中位数/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/297-二叉树的序列化与反序列化/src/main/java" charset="UTF-8" />
@@ -527,6 +531,8 @@
     <file url="file://$PROJECT_DIR$/886-可能的二分法/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/889-根据前序和后序遍历构造二叉树/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/889-根据前序和后序遍历构造二叉树/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/89-格雷编码/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/89-格雷编码/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/9-判断一个数是否是回文数/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/90-子集2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/901-股票价格跨度/src/main/java" charset="UTF-8" />

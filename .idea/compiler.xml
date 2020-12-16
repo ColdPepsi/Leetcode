@@ -225,6 +225,7 @@
         <module name="718-最长重复子数组" />
         <module name="540-有序数组中的单一元素" />
         <module name="287-寻找重复数" />
+        <module name="89-格雷编码" />
         <module name="117-填充每个节点的下一个右侧节点指针 II" />
         <module name="20-有效的括号" />
         <module name="225-用队列模拟栈" />
@@ -327,6 +328,7 @@
         <module name="316-去除重复字母" />
         <module name="面试题 08.12. 八皇后" />
         <module name="539-最小时间差" />
+        <module name="290-单词规律" />
         <module name="剑指 Offer 56 - II. 数组中数字出现的次数 II" />
         <module name="875-爱吃香蕉的珂珂" />
         <module name="802-找到最终的安全状态" />
@@ -446,6 +448,7 @@
         <module name="371-两整数之和" />
         <module name="面试题 08.11. 硬币" />
         <module name="138-复制带随机指针的链表" />
+        <module name="1030-距离顺序排列矩阵单元格" />
         <module name="637-二叉树的层平均值" />
         <module name="350-两个数组的交集 II" />
         <module name="707-设计链表" />
@@ -527,6 +530,7 @@
       <module name="1026-节点与其祖先之间的最大差值" target="8" />
       <module name="1027-最长等差数列" target="8" />
       <module name="103-二叉树的锯齿形层次遍历" target="8" />
+      <module name="1030-距离顺序排列矩阵单元格" target="8" />
       <module name="1038-把二叉搜索树转换为累加树" target="8" />
       <module name="104-二叉树最大深度" target="8" />
       <module name="105-从前序与中序遍历序列构造二叉树" target="8" />
@@ -686,6 +690,7 @@
       <module name="287-寻找重复数" target="8" />
       <module name="289-生命游戏" target="8" />
       <module name="29-两数相除" target="8" />
+      <module name="290-单词规律" target="8" />
       <module name="295-数据流的中位数" target="8" />
       <module name="297-二叉树的序列化与反序列化" target="8" />
       <module name="3-无重复字符的最长子串" target="8" />
@@ -900,6 +905,7 @@
       <module name="881-救生艇" target="8" />
       <module name="886-可能的二分法" target="8" />
       <module name="889-根据前序和后序遍历构造二叉树" target="8" />
+      <module name="89-格雷编码" target="8" />
       <module name="9-判断一个数是否是回文数" target="8" />
       <module name="90-子集2" target="8" />
       <module name="901-股票价格跨度" target="8" />
